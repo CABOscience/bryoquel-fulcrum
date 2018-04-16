@@ -55,7 +55,7 @@ distribution.collapsed <- distribution.sub %>%
   group_by(taxonID) %>%
   summarise(localities = toString(unique(locality)))
 
-# add French and English vernacular names, and description
+# add French and English vernacular names, and description, and only select some columns
 taxon.sub2 <- taxon.sub %>%
   left_join(verna.sub.en, by = 'taxonID') %>%
   left_join(verna.sub.fr, by = 'taxonID') %>%
@@ -64,4 +64,4 @@ taxon.sub2 <- taxon.sub %>%
 
 # create csv for import into Fulcrum
 write.csv(taxon.sub2, file = 'bryoquel_taxon_fulcrum_v3_3.csv', row.names = F,
-          na = '', quote = F)
+          na = '')
