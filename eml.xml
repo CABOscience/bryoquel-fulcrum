@@ -1,0 +1,307 @@
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1"
+         xmlns:dc="http://purl.org/dc/terms/"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+         packageId="e2178209-373b-4370-9ef4-f0b4bc964b40/v3.3" system="http://gbif.org" scope="system"
+         xml:lang="fre">
+
+<dataset>
+  <alternateIdentifier>e2178209-373b-4370-9ef4-f0b4bc964b40</alternateIdentifier>
+  <alternateIdentifier>http://data.canadensys.net/ipt/resource?r=bryophytes-qc-lb</alternateIdentifier>
+  <title xml:lang="fre">Bryoquel : Liste des bryophytes présentes au Québec-Labrador</title>
+      <creator>
+    <individualName>
+        <givenName>Jean</givenName>
+      <surName>Faubert</surName>
+    </individualName>
+    <organizationName>Société québécoise de bryologie</organizationName>
+    <positionName>Président du conseil d&apos;administration</positionName>
+    <address>
+        <deliveryPoint>47 rang 4 est</deliveryPoint>
+        <city>Saint-Valérien-de-Rimouski</city>
+        <administrativeArea>Québec</administrativeArea>
+        <postalCode>G0L 4E0</postalCode>
+        <country>CA</country>
+    </address>
+    <phone>418-736-4663</phone>
+    <electronicMailAddress>info@societequebecoisedebryologie.org</electronicMailAddress>
+    <onlineUrl>http://societequebecoisedebryologie.org/</onlineUrl>
+      </creator>
+      <metadataProvider>
+    <individualName>
+        <givenName>Jean</givenName>
+      <surName>Faubert</surName>
+    </individualName>
+    <organizationName>Société québécoise de bryologie</organizationName>
+    <positionName>Président du conseil d&apos;administration</positionName>
+    <address>
+        <deliveryPoint>47 rang 4 est</deliveryPoint>
+        <city>Saint-Valérien-de-Rimouski</city>
+        <administrativeArea>Québec</administrativeArea>
+        <postalCode>G0L 4E0</postalCode>
+        <country>CA</country>
+    </address>
+    <phone>418-736-4663</phone>
+    <electronicMailAddress>info@societequebecoisedebryologie.org</electronicMailAddress>
+    <onlineUrl>http://societequebecoisedebryologie.org/</onlineUrl>
+      </metadataProvider>
+      <associatedParty>
+    <individualName>
+        <givenName>Jean</givenName>
+      <surName>Faubert</surName>
+    </individualName>
+    <organizationName>Société québécoise de bryologie</organizationName>
+    <positionName>Président du conseil d&apos;administration</positionName>
+    <address>
+        <deliveryPoint>47 rang 4 est</deliveryPoint>
+        <city>Saint-Valérien-de-Rimouski</city>
+        <administrativeArea>Québec</administrativeArea>
+        <postalCode>G0L 4E0</postalCode>
+        <country>CA</country>
+    </address>
+    <phone>418-736-4663</phone>
+    <electronicMailAddress>info@societequebecoisedebryologie.org</electronicMailAddress>
+    <onlineUrl>http://societequebecoisedebryologie.org/</onlineUrl>
+    <role>author</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Stéphane</givenName>
+      <surName>Leclerc</surName>
+    </individualName>
+    <organizationName>Cégep de Limoilou</organizationName>
+    <positionName>Technicien en travaux pratiques</positionName>
+    <address>
+        <deliveryPoint>9646, avenue Royale, Sainte-Anne-de-Beaupré</deliveryPoint>
+        <city>Québec</city>
+        <administrativeArea>Québec</administrativeArea>
+        <postalCode>G0A 3C0</postalCode>
+        <country>CA</country>
+    </address>
+    <phone>418-702-1900</phone>
+    <electronicMailAddress>sitelle88@hotmail.com</electronicMailAddress>
+    <onlineUrl>http://www.societequebecoisedebryologie.org</onlineUrl>
+    <role>editor</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Arold</givenName>
+      <surName>Lavoie</surName>
+    </individualName>
+    <address>
+        <deliveryPoint>185, rue du Prince-Albert</deliveryPoint>
+        <city>Otterburn Park</city>
+        <administrativeArea>Québec</administrativeArea>
+        <country>CA</country>
+    </address>
+    <phone>450 464-7929</phone>
+    <electronicMailAddress>info@aroldlavoie.com</electronicMailAddress>
+    <onlineUrl>http://aroldlavoie.com</onlineUrl>
+    <role>contentProvider</role>
+      </associatedParty>
+      <associatedParty>
+    <individualName>
+        <givenName>Martine</givenName>
+      <surName>Lapointe</surName>
+    </individualName>
+    <organizationName>Université Laval</organizationName>
+    <positionName>Technicienne experte</positionName>
+    <address>
+        <deliveryPoint>Université Laval</deliveryPoint>
+        <city>Québec</city>
+        <administrativeArea>Québec</administrativeArea>
+        <postalCode>G1V 0A6</postalCode>
+        <country>CA</country>
+    </address>
+    <phone>418-656-2131 poste 6234</phone>
+    <electronicMailAddress>marsupella@gmail.com</electronicMailAddress>
+    <onlineUrl>http://www.societequebecoisedebryologie.org</onlineUrl>
+    <role>pointOfContact</role>
+      </associatedParty>
+      <associatedParty>
+    <organizationName>Société québécoise de bryologie</organizationName>
+    <address>
+        <deliveryPoint>47 rang 4 est</deliveryPoint>
+        <city>Saint-Valérien-de-Rimouski</city>
+        <administrativeArea>Québec</administrativeArea>
+        <postalCode>G0L 4E0</postalCode>
+        <country>CA</country>
+    </address>
+    <phone>418 736 4663</phone>
+    <electronicMailAddress>info@societequebecoisedebryologie.org</electronicMailAddress>
+    <onlineUrl>http://societequebecoisedebryologie.org</onlineUrl>
+    <role>publisher</role>
+      </associatedParty>
+  <pubDate>
+      2016-06-03
+  </pubDate>
+  <language>fre</language>
+  <abstract>
+    <para>Inventaire des Bryophytes du Québec et du Labrador</para>
+  </abstract>
+      <keywordSet>
+            <keyword>checklist</keyword>
+        <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>inventoryRegional</keyword>
+        <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+      </keywordSet>
+      <keywordSet>
+            <keyword>Checklist</keyword>
+            <keyword>Mousses</keyword>
+            <keyword>Hépatiques</keyword>
+            <keyword>Anthocérotes</keyword>
+            <keyword>Québec</keyword>
+            <keyword>Labrador</keyword>
+            <keyword>Plantes rares</keyword>
+            <keyword>bryophytes</keyword>
+            <keyword>mosses</keyword>
+            <keyword>hepatic</keyword>
+            <keyword>vernacular names</keyword>
+            <keyword>English</keyword>
+            <keyword>French</keyword>
+            <keyword>distribution</keyword>
+        <keywordThesaurus>n/a</keywordThesaurus>
+      </keywordSet>
+  <intellectualRights>
+    <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+  </intellectualRights>
+  <distribution scope="document">
+    <online>
+      <url function="information">http://societequebecoisedebryologie.org/</url>
+    </online>
+  </distribution>
+  <coverage>
+      <geographicCoverage>
+          <geographicDescription>Province de Québec et territoire du Labrador</geographicDescription>
+        <boundingCoordinates>
+          <westBoundingCoordinate>-79.61</westBoundingCoordinate>
+          <eastBoundingCoordinate>-55.43</eastBoundingCoordinate>
+          <northBoundingCoordinate>62.69</northBoundingCoordinate>
+          <southBoundingCoordinate>45</southBoundingCoordinate>
+        </boundingCoordinates>
+      </geographicCoverage>
+          <temporalCoverage>
+              <rangeOfDates>
+                  <beginDate>
+                    <calendarDate>1850</calendarDate>
+                  </beginDate>
+                <endDate>
+                  <calendarDate>2014</calendarDate>
+                </endDate>
+              </rangeOfDates>
+          </temporalCoverage>
+          <taxonomicCoverage>
+              <generalTaxonomicCoverage>Mousses, hépatiques, anthocérote.</generalTaxonomicCoverage>
+              <taxonomicClassification>
+                  <taxonRankName>phylum</taxonRankName>
+                <taxonRankValue>Bryophyta</taxonRankValue>
+                  <commonName>bryophytes</commonName>
+              </taxonomicClassification>
+          </taxonomicCoverage>
+  </coverage>
+  <maintenance>
+    <description>
+      <para></para>
+    </description>
+    <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+  </maintenance>
+
+      <contact>
+    <individualName>
+        <givenName>Jean</givenName>
+      <surName>Faubert</surName>
+    </individualName>
+    <organizationName>Société québécoise de bryologie</organizationName>
+    <positionName>Président du conseil d&apos;administration</positionName>
+    <address>
+        <deliveryPoint>47 rang 4 est</deliveryPoint>
+        <city>Saint-Valérien-de-Rimouski</city>
+        <administrativeArea>Québec</administrativeArea>
+        <postalCode>G0L 4E0</postalCode>
+        <country>CA</country>
+    </address>
+    <phone>418-736-4663</phone>
+    <electronicMailAddress>info@societequebecoisedebryologie.org</electronicMailAddress>
+    <onlineUrl>http://societequebecoisedebryologie.org/</onlineUrl>
+      </contact>
+  <methods>
+        <methodStep>
+          <description>
+            <para>n/a</para>
+          </description>
+        </methodStep>
+      <sampling>
+        <studyExtent>
+          <description>
+            <para>Tous les taxons de bryophytes présents sur l&apos;ensemble du territoire du Québec et du Labrador</para>
+          </description>
+        </studyExtent>
+        <samplingDescription>
+          <para>Inventaire d&apos;herbiers institutionnels et personnels.
+Revue de la littérature pertinente.
+Inventaires de terrain.</para>
+        </samplingDescription>
+      </sampling>
+      <qualityControl>
+        <description>
+          <para>Vérification des contenus de la BD par deux ou trois personnes différentes.
+Vérification de l&apos;identitée des spécimens des taxons rares par J.Faubert.
+Vérifications de l&apos;identitée de certains spécimens problématiques par des spécialistes du groupe.
+Mentions de littérature retenues uniquement si produites par des bryologistes reconnus.</para>
+        </description>
+      </qualityControl>
+  </methods>
+  <project >
+    <title>Base de données des bryophytes du Québec-Labrador</title>
+      <personnel>
+        <individualName>
+            <givenName>Jean</givenName>
+          <surName>Faubert</surName>
+        </individualName>
+        <role>editor</role>
+      </personnel>
+      <funding>
+        <para>Financé par la Société québécoise de bryologie</para>
+      </funding>
+      <studyAreaDescription>
+        <descriptor name="generic"
+                    citableClassificationSystem="false">
+          <descriptorValue>Québec et Labrador (Canada)</descriptorValue>
+        </descriptor>
+      </studyAreaDescription>
+      <designDescription>
+        <description>
+          <para>Base de données produite dans le logiciel FileMaker, accessible par les gestionnaires seulement.
+Extraits rendus publics, sous forme de fichiers .xls, .pdf et .csv</para>
+        </description>
+      </designDescription>
+  </project>
+</dataset>
+  <additionalMetadata>
+    <metadata>
+      <gbif>
+          <dateStamp>2014-08-01T02:16:08.250-04:00</dateStamp>
+          <hierarchyLevel>dataset</hierarchyLevel>
+            <citation identifier="doi:10.5886/e5td29f6">Faubert, J., S. Leclerc, A. Lavoie, M. Lapointe et collaborateurs, 2014+. Base de données des bryophytes du Québec-Labrador (BRYOQUEL). En ligne à http://societequebecoisedebryologie.org. http://dx.doi.org/10.5886/e5td29f6 (accessed on [date])</citation>
+            <physical>
+              <objectName>GBIF data portal</objectName>
+              <characterEncoding>UTF-8</characterEncoding>
+              <dataFormat>
+                <externallyDefinedFormat>
+                  <formatName>HTML</formatName>
+                </externallyDefinedFormat>
+              </dataFormat>
+              <distribution>
+                <online>
+                  <url function="download">http://www.gbif.org/dataset/e2178209-373b-4370-9ef4-f0b4bc964b40</url>
+                </online>
+              </distribution>
+            </physical>
+          <resourceLogoUrl>http://data.canadensys.net/ipt/logo.do?r=bryophytes-qc-lb</resourceLogoUrl>
+          <dc:replaces>e2178209-373b-4370-9ef4-f0b4bc964b40/v3.3.xml</dc:replaces>
+      </gbif>
+    </metadata>
+  </additionalMetadata>
+</eml:eml>

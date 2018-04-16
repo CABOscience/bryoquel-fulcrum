@@ -1,0 +1,2683 @@
+id	vernacularName	source	language	countryCode	isPreferredName	taxonRemarks
+1	field hornwort		Anglais		True	
+1	anthocérote des champs		Français		True	
+2	Macouns hornwort		Anglais		True	
+2	anthocérote discrète		Français		True	
+2	anthocérote de Macoun		Français			
+3	short-horned liverwort		Anglais		True	
+3	anthocérote orbiculaire		Français		True	
+3	notothylas orbiculaire		Français			
+4	Carolina hornwort		Anglais		True	
+4	anthocérote commune		Français		True	
+4	phéocéros de Caroline		Français			
+7	similar notchwort		Anglais		True	
+7	gorgone lustrée		Français		True	
+7	anastrophylle assimilé		Français			
+8	hollow-leaved notchwort		Anglais		True	
+8	gorgone à feuilles creuses		Français		True	
+11	Hellers notchwort		Anglais		True	
+11	gorgone des forêts		Français		True	
+11	anastrophylle de Heller		Français			
+12	Michauxs notchwort		Anglais		True	
+12	gorgone ailée		Français		True	
+12	anastrophylle de Michaux		Français			
+13	comb notchwort		Anglais		True	
+13	petite gorgone		Français		True	
+13	anastrophylle menu		Français			
+13	jongermanne menue		Français			
+14	curled notchwort		Anglais		True	
+14	gorgone des rochers		Français		True	
+14	anastrophylle saxicole		Français			
+15	wedge notchwort		Anglais		True	
+15	gorgone des tourbières		Français		True	
+16	large greasewort		Anglais		True	
+16	grand aneura		Français		True	
+16	aneure très grande		Français			
+17	common greasewort		Anglais		True	
+17	aneura gras		Français		True	
+17	aneure grasse		Français			
+17	aneure épais		Français			
+17	jongermanne grasse		Français			
+18	alpine silverwort		Anglais		True	
+18	anthélie bleue		Français		True	
+18	anthélie alpine		Français			
+18	jongermanne chaton		Français			
+19	Juratzkas silverwort		Anglais		True	
+19	anthélie des neiges		Français		True	
+20	revolute rustwort		Anglais		True	
+20	marsupelle révolutée		Français		True	
+22	arnellie arctique		Français		True	
+23	thin starwort		Anglais		True	
+23	astérelle gracieuse		Français		True	
+23	astérelle mince		Français			
+24	delicate starwort		Anglais		True	
+24	astérelle délicate		Français		True	
+24	astérelle tendre		Français			
+25	Atlantic pawwort		Anglais		True	
+25	barbille basanée		Français		True	
+25	barbilophozie atlantique		Français			
+26	trunk pawwort		Anglais		True	
+26	barbille atténuée		Français		True	
+26	barbilophozie mince		Français			
+26	jongermanne atténuée		Français			
+27	bearded pawwort		Anglais		True	
+27	barbille commune		Français		True	
+27	barbilophozie barbue		Français			
+27	jongermanne barbue		Français			
+28	Binsteads pawwort		Anglais		True	
+28	barbille nordique		Français		True	
+28	barbilophozie de Binstead		Français			
+29	Floerkes pawwort		Anglais		True	
+29	barbille dressée		Français		True	
+29	barbilophozie commune		Français			
+30	Hatchers pawwort		Anglais		True	
+30	barbille bipolaire		Français		True	
+30	barbilophozie de Hatcher		Français			
+31	Kunzes pawwort		Anglais		True	
+31	barbille bilobée		Français		True	
+31	barbilophozie des marécages		Français			
+32	greater pawwort		Anglais		True	
+32	grande barbille		Français		True	
+32	barbilophozie faux-lycopode		Français			
+32	lophozie fauxlycopode		Français			
+33	four-fingered pawwort		Anglais		True	
+33	barbille patte-de-lion		Français		True	
+33	barbilophozie à quatre lobes		Français			
+34	naked whipwort		Anglais		True	
+34	bazzanie dénudée		Français		True	
+34	bazzanie nue		Français			
+35	three-toothed whipwort		Anglais		True	
+35	petite bazzanie		Français		True	
+35	bazzanie à trois créneaux		Français			
+35	jongermanne à trois créneaux		Français			
+36	three-lobed whipwort		Anglais		True	
+36	bazzanie trilobée		Français		True	
+36	bazzanie à trois lobes		Français			
+36	mastigobryum à trois lobes		Français			
+36	mastigobry trilobé		Français			
+36	jongermanne à trois lobes		Français			
+37	common kettlewort		Anglais		True	
+37	blaise commun		Français		True	
+37	blasie naine		Français			
+37	blasie fluette		Français			
+37	blasie exiguë		Français			
+38	northern hairy threadwort		Anglais		True	
+38	ciliaire nordique		Français		True	
+39	hairy threadwort		Anglais		True	
+39	ciliaire doigts-de-fée		Français		True	
+39	blépharostome à feuilles velues		Français			
+39	jongermanne capillaire		Français			
+40	common pouchwort		Anglais		True	
+40	calypogée terrestre		Français		True	
+40	calypogéie fissile		Français			
+40	jongermanne fendue		Français			
+41	Meylans pouchwort		Anglais		True	
+41	calypogée variable		Français		True	
+41	calypogéie à stipules entières		Français			
+42	Muellers pouchwort		Anglais		True	
+42	calypogée commune		Français		True	
+42	calypogéie de Mueller		Français			
+42	calypogée de Müller		Français			
+43	Nees pouchwort		Anglais		True	
+43	calypogée ambiguë		Français		True	
+43	calypogéie de Nees		Français			
+44	bog pouchwort		Anglais		True	
+44	calypogée des sphaignes		Français		True	
+44	calypogéie des tourbières		Français			
+45	Swedish pouchwort		Anglais		True	
+45	calypogée boréale		Français		True	
+45	calypogéie de Suède		Français			
+46	snow pincewort		Anglais			
+46	céphalozie ambiguë		Français		True	
+47	two-horned pincerwort		Anglais		True	
+47	célaphozie cornue		Français		True	
+47	céphalozie bicuspide		Français			
+47	jongermanne à deux pointes		Français			
+48	chain pincerwort		Anglais		True	
+48	céphalozie chaînon		Français		True	
+48	céphalophozie à chaînes		Français			
+49	forcipated pincerwort		Anglais		True	
+49	céphalozie bec-de-perroquet		Français		True	
+49	céphalozie connivente		Français			
+50	pale pincerwort		Anglais		True	
+50	céphalozie pâle		Français		True	
+51	scissors pincerwort		Anglais		True	
+51	célaphozie ciseaux		Français		True	
+52	moon-leaved pincerwort		Anglais		True	
+52	célaphozie feuille-de-lune		Français		True	
+52	céphalozie à feuilles lunaires		Français			
+53	bog pincerwort		Anglais		True	
+53	célaphozie des marais		Français		True	
+54	blunt pincerwort		Anglais		True	
+54	célaphozie trompeuse		Français		True	
+54	céphalozie mousse		Français			
+55	spreading threadwort		Anglais		True	
+55	céphalozielle étalée		Français		True	
+55	céphalozielle divariquée		Français			
+55	jongermanne divariquée		Français			
+56	spurred threadwort		Anglais		True	
+56	céphalozielle à éperon		Français		True	
+56	céphalozielle éperonnée		Français			
+57	Lake Grimsel threadwort		Anglais		True	
+57	céphalozielle sombre		Français		True	
+57	céphalozielle du lac Grimsel		Français			
+58	Hampes threadwort		Anglais		True	
+58	céphalozielle des rochers		Français		True	
+58	céphalozielle de Hampe		Français			
+59	red threadwort		Anglais		True	
+59	céphalozielle rouge		Français		True	
+60	céphalozielle bois-pourri		Français		True	
+61	spiny threadwort		Anglais		True	
+61	céphalozielle à feuilles étroites		Français		True	
+61	céphalozielle épineuse		Français			
+62	hooked threadwort		Anglais		True	
+62	céphalozielle à crochets		Français		True	
+63	arctic threadwort		Anglais		True	
+63	céphalozielle variable		Français		True	
+64	bifid crestwort		Anglais		True	
+64	tourmentine élégante		Français		True	
+66	lesser liverwort		Anglais		True	
+66	tourmentine mineure		Français		True	
+66	lophocolée naine		Français			
+68	pale liverwort		Anglais		True	
+68	tourmentine pâle		Français		True	
+68	chiloscyphe pâle		Français			
+69	fragile liverwort		Anglais		True	
+69	tourmentine fragile		Français		True	
+69	chiloscyphe fragile		Français			
+70	square-leaved liverwort		Anglais		True	
+70	tourmentine mâle		Français		True	
+70	chiloscyphe polyanthe		Français			
+70	chyloscyphe à fleurs nombreuses		Français			
+70	jongermanne à fruits nombreux		Français			
+70	jongermanne à plusieurs fleurs		Français			
+71	brook square-leaved liverwort		Anglais		True	
+71	tourmentine des rivages		Français		True	
+71	chiloscyphe des ruisseaux		Français			
+72	variable-leaved crestwort		Anglais		True	
+72	tourmentine variable		Français		True	
+72	lophocolée à feuilles différentes		Français			
+74	bog notchwort		Anglais		True	
+74	filandre des tourbières		Français			
+74	cladopodielle flottante		Français			
+75	Holts notchwort		Anglais		True	
+75	filandre des forêts		Français			
+75	cladopodielle de Holt		Français			
+76	hyaline liverwort		Anglais		True	
+76	morgane évanescente		Français		True	
+76	athalamie hyaline		Français			
+78	Biddlecomes pouncewort		Anglais		True	
+78	dentelle des forêts		Français		True	
+78	cololejeunée de Biddlecome		Français			
+79	cat-tongue liverwort		Anglais		True	
+79	coprinet peau-de-lézard		Français		True	
+81	white earwort		Anglais		True	
+81	fausse-scapanie blanchâtre		Français		True	
+81	diplophylle blanchâtre		Français			
+81	jungermannie blanchâtre		Français			
+81	jongermanne blanchâtre		Français			
+82	sharp-pointed earwort		Anglais		True	
+82	fausse-scapanie apiculée		Français		True	
+82	diplophylle pointue		Français			
+83	blunted earwort		Anglais		True	
+83	fausse-scapanie obtuse		Français		True	
+84	yew-leaved earwort		Anglais		True	
+84	fausse-scapanie commune		Français		True	
+84	diplophylle des montagnes		Français			
+85	Schuster`s pouchwort		Anglais		True	
+85	calypogée opaque		Français		True	
+85	calypogéie de Schuster		Français			
+87	clubwort		Anglais		True	
+87	fausse-céphalozielle cuivrée		Français		True	
+89	pitted frillwort		Anglais		True	
+89	chiffonée commune		Français		True	
+89	fossombronie alvéolée		Français			
+90	acid frillwort		Anglais		True	
+90	chiffonée à crêtes		Français		True	
+90	fossombronie acide		Français			
+91	Asa Grays scalewort		Anglais		True	
+91	frullanie symbiotique		Français		True	
+91	frullanie tamaris		Français			
+93	Bolanders scalewort		Anglais		True	
+93	frullanie chenille		Français		True	
+93	frullanie de Bolander		Français			
+94	York scalewort		Anglais		True	
+94	frullanie commune		Français		True	
+94	frullanie de York		Français			
+95	inflated scalewort		Anglais		True	
+95	frullanie enflée		Français		True	
+95	frullanie dilatée		Français			
+96	Oakes scalewort		Anglais		True	
+96	frullanie cuivrée		Français		True	
+96	frullanie dOakes		Français			
+97	river scalewort		Anglais		True	
+97	frullanie des rochers		Français		True	
+97	frullanie des rivages		Français			
+98	Selwyns scalewort		Anglais		True	
+98	frullanie des cèdres		Français		True	
+98	frullanie de Selwyn		Français			
+99	turps pouchwort		Anglais		True	
+99	géocalyx odorant		Français		True	
+99	géocalice parfumée		Français			
+99	géocalyce fétide		Français			
+100	Welsh notchwort		Anglais		True	
+100	gobelin à lobes aigus		Français		True	
+100	gymnocolée galloise		Français			
+102	inflated notchwort		Anglais		True	
+102	gobelin noir		Français		True	
+102	gymnocolée enflée		Français			
+102	jongermanne enflée		Français			
+103	pointed frostwort		Anglais		True	
+103	gymnomitrion apiculé		Français		True	
+105	braided frostwort		Anglais		True	
+105	gymnomitrion élégant		Français		True	
+105	gymnomitrion tressé		Français			
+105	gymnomitre élégant		Français			
+106	coral frostwort		Anglais		True	
+106	gymnomitrion corail		Français		True	
+106	gymnomitrion faux-corail		Français			
+107	blunt frostwort		Anglais		True	
+107	gymnomitrion à lobes obtus		Français		True	
+108	Drummonds flapwort		Anglais		True	
+108	harpanthe bois-pourri		Français		True	
+108	harpanthe de Drummond		Français			
+109	great mountain flapwort		Anglais		True	
+109	harpanthe des montagnes		Français		True	
+110	stipular flapwort		Anglais		True	
+110	harpanthe bouclier		Français		True	
+110	harpanthe stipulaire		Français			
+110	harpanthe à écusson		Français			
+111	lax notchwort		Anglais		True	
+111	hygrobielle à feuilles lâches		Français		True	
+111	hygrobielle à feuilles molles		Français			
+112	Jamesons liverwort		Anglais		True	
+112	sylphide dautomne		Français		True	
+112	jamesonielle dautomne		Français			
+113	dark-green flapwort		Anglais		True	
+113	jongermanne vert foncé		Français		True	
+113	jungermannie vert foncé		Français			
+114	carpet-like flapwort		Anglais		True	
+114	jongermanne grégaire		Français		True	
+114	jungermannie grégaire		Français			
+115	kidney flapwort		Anglais		True	
+115	jongermanne chevelue		Français		True	
+115	jungermannie réniforme		Français			
+116	scalloped flapwort		Anglais		True	
+116	jongermanne crénelée		Français		True	
+116	jungermannie crénelée		Français			
+117	cordate flapwort		Anglais		True	
+117	jongermanne feuille-en-cur		Français		True	
+117	jungermannie cordée		Français			
+118	crenulated flapwort		Anglais		True	
+118	jongermanne gracile		Français		True	
+118	jungermannie gracieuse		Français			
+118	jongermanne très grêle		Français			
+119	transparent flapwort		Anglais		True	
+119	jongermanne hyaline		Français		True	
+119	jungermannie hyaline		Français			
+120	long-leaved flapwort		Anglais		True	
+120	jongermanne lisse		Français		True	
+120	jungermannie à capsules lisses		Français			
+121	egg flapwort		Anglais		True	
+121	jongermanne à feuilles obovées		Français		True	
+121	jungermannie obovée		Français			
+122	arctic flapwort		Anglais		True	
+122	jongermanne polaire		Français		True	
+123	dwarf flapwort		Anglais		True	
+123	jongermanne naine		Français		True	
+123	jungermannie naine		Français			
+124	round-fruited flapwort		Anglais		True	
+124	jongermanne à capsules rondes		Français		True	
+124	jungermannie à fruits ronds		Français			
+124	jongermanne à fruits sphériques		Français			
+126	bristly fingerwort		Anglais		True	
+126	kurzie des tourbières		Français		True	
+126	kurzie sétacée		Français			
+127	dwarf notchwort		Anglais		True	
+127	lophozie minuscule		Français		True	
+1135	Gillmans notchwort		Anglais		True	
+1135	lophozie des rochers		Français		True	
+133	harpanthus-like notchwort		Anglais		True	
+133	lophozie faux-harpanthe		Français		True	
+134	whip notchwort		Anglais		True	
+134	lophozie à gemmules		Français		True	
+136	fen notchwort		Anglais		True	
+136	lophozie des tourbières		Français		True	
+138	anomalous flapwort		Anglais		True	
+138	mylie des tourbières		Français		True	
+140	least pouncewort		Anglais		True	
+140	lustre des forêts		Français		True	
+140	lejeunée à feuilles creuses		Français			
+141	creeping fingerwort		Anglais		True	
+141	lépidozie rampante		Français		True	
+141	lépidozie en tapis		Français			
+141	jongermanne rampante		Français			
+142	small notchwort		Anglais		True	
+142	lophozie ascendante		Français		True	
+143	lesser notchwort		Anglais		True	
+143	lophozie à deux dents		Français		True	
+143	lophozie mineure		Français			
+143	jongermanne bicrénelée		Français			
+143	jongermanne à deux créneaux		Français			
+145	cut notchwort		Anglais		True	
+145	lophozie découpée		Français		True	
+145	lophozie en tête		Français			
+145	jongermanne taillée		Français			
+146	droplet flapwort		Anglais		True	
+146	lophozie commune		Français		True	
+146	lophozie longiflore		Français			
+149	horned notchwort		Anglais		True	
+149	lophozie à longues dents		Français		True	
+149	lophozie cornue		Français			
+1143	obtuse notchwort		Anglais		True	
+1143	lophozie obtuse		Français		True	
+152	arctic notchwort		Anglais		True	
+152	lophozie polaire		Français		True	
+153	Schusters notchwort		Anglais		True	
+153	lophozie arctique		Français		True	
+153	lophozie de Schuster		Français			
+155	forest notchwort		Anglais		True	
+155	lophozie des forêts		Français		True	
+156	hill notchwort		Anglais		True	
+156	lophozie des collines		Français			
+157	bog tumid notchwort		Anglais		True	
+157	lophozie des sphaignes		Français		True	
+157	lophozie des vases		Français			
+158	tumid notchwort		Anglais		True	
+158	lophozie ventrue		Français		True	
+158	lophozie enflée		Français			
+158	jongermanne ventrue		Français			
+159	Wenzels notchwort		Anglais		True	
+159	lophozie à feuilles rondes		Français		True	
+159	lophozie de Wenzel		Français			
+160	fragrant macewort		Anglais		True	
+160	mannie odorante		Français		True	
+160	mannie fragrante		Français			
+160	fimbriaire odorante		Français			
+161	small macewort		Anglais		True	
+161	mannie poilue		Français		True	
+162	mountain liverwort		Anglais		True	
+162	marchantie des montagnes		Français		True	
+163	green-tongue liverwort		Anglais		True	
+163	marchantie polymorphe		Français		True	
+163	marchantie protée		Français			
+163	hépatique des fontaines		Français			
+164	common liverwort		Anglais		True	
+164	marchantie rudérale		Français		True	
+165	arctic rustwort		Anglais		True	
+165	marsupelle arctique		Français		True	
+166	Boecks rustwort		Anglais		True	
+166	marsupelle fausse-céphalozielle		Français		True	
+167	snow rustwort		Anglais		True	
+167	petite marsupelle		Français		True	
+167	marsupelle des neiges		Français			
+169	compact rustwort		Anglais		True	
+169	marsupelle pressée		Français		True	
+170	notched rustwort		Anglais		True	
+170	marsupelle échancrée		Français		True	
+170	sarcoscyphe échancrée		Français			
+170	jongermanne émarginée		Français			
+171	rounded rustwort		Anglais		True	
+171	marsupelle arrondie		Français		True	
+172	speckled rustwort		Anglais		True	
+172	marsupelle amphibie		Français		True	
+172	marsupelle tachetée		Français			
+173	Spruces rustwort		Anglais		True	
+173	marsupelle à massue		Français		True	
+173	marsupelle de Spruce		Français			
+175	rock veilwort		Anglais		True	
+175	metzgérie des rochers		Français		True	
+176	forked veilwort		Anglais		True	
+176	metzgérie fourchue		Français		True	
+176	metzgérie bifurquée		Français			
+176	jongermanne fourchue		Français			
+177	fairy beads		Anglais		True	
+177	collier des fées		Français		True	
+179	Irish ruffwort		Anglais			
+179	collerette ondulée		Français		True	
+179	moerckie dIrlande		Français			
+180	Taylors flapwort		Anglais		True	
+180	mylie rouge		Français		True	
+180	mylie de Taylor		Français			
+181	earth-cup flapwort		Anglais		True	
+181	nardie gobelet		Français		True	
+181	nardie coupe de terre		Français			
+182	two-lobed flapwort		Anglais		True	
+182	nardie bilobée		Français		True	
+182	nardie des insectes		Français			
+183	ladder flapwort		Anglais		True	
+183	nardie échelonnée		Français		True	
+183	nardie en échelle		Français			
+183	aliculaire en échellons		Français			
+183	jongermanne en échellons		Français			
+184	wood rustwort		Anglais		True	
+184	arabesque des forêts		Français		True	
+184	nowellie des forêts		Français			
+184	jongermanne à feuilles courbes		Français			
+185	matchstick flapwort		Anglais		True	
+185	vénusté dénudée		Français		True	
+185	odontoschisme nu		Français			
+186	brown flapwort		Anglais		True	
+186	vénusté élancée		Français		True	
+186	odontoschisme élevé		Français			
+187	Macouns flapwort		Anglais		True	
+187	vénusté cylindrique		Français		True	
+187	odontoschisme de Macoun		Français			
+188	Lyells ribbonwort		Anglais		True	
+188	ruban nervuré		Français		True	
+188	pallavicinie de Lyell		Français			
+189	endive pellia		Anglais		True	
+189	pellie ramifiée		Français		True	
+189	pellie à feuilles dendives		Français			
+190	common pellia		Anglais		True	
+190	pellie bisexuée		Français		True	
+190	pellia épiphylle		Français			
+190	pellie épiphylle		Français			
+190	jongermanne épiphylle		Français			
+191	large-spored pellia		Anglais		True	
+191	pellie tubulaire		Français		True	
+192	Nees pellia		Anglais		True	
+192	pellie annulaire		Français		True	
+192	pellia de Nees		Français			
+193	northern lesser featherwort		Anglais		True	
+193	plumette subarctique		Français		True	
+194	lesser featherwort		Anglais		True	
+194	plumette infléchie		Français		True	
+194	plagiochile fausse-porelle		Français			
+196	snow threadwort		Anglais		True	
+196	dame blanche		Français		True	
+198	pinnate scalewort		Anglais		True	
+198	porelle pennée		Français		True	
+199	wall scalewort		Anglais		True	
+199	porelle à feuilles larges		Français		True	
+199	porelle platyphylle		Français			
+199	madothèque à larges feuilles		Français			
+199	jongermanne à larges feuilles		Français			
+201	Swedish frostwort		Anglais		True	
+201	prasanthe des vents		Français		True	
+201	prasanthe de Suède		Français			
+202	narrow mushroom-headed liverwort		Anglais		True	
+202	preissie commune		Français		True	
+202	preissie quadratique		Français			
+203	northern mushroom-headed liverwort		Anglais		True	
+203	preissie nordique		Français		True	
+204	ciliate fringewort		Anglais		True	
+204	ptilidie des rochers		Français		True	
+204	ptilidie cilié		Français			
+204	jongermanne ciliée		Français			
+205	tree fringewort		Anglais		True	
+205	ptilidie des forêts		Français		True	
+205	ptilidie arboricole		Français			
+206	flat-leaved scalewort		Anglais		True	
+206	radule aplatie		Français		True	
+206	radule plate		Français			
+206	radule aplanie		Français			
+206	jongermanne aplatie		Français			
+206	jongermanne applati		Français			
+207	purple-margined liverwort		Anglais		True	
+207	réboulie commune		Français		True	
+207	reboulie hémisphérique		Français			
+207	réboulie hémisphérique		Français			
+207	rebouillie hémisphérique		Français			
+207	marchantie hémisphérique		Français			
+208	jagged germanderwort		Anglais		True	
+208	riccardie des cédrières		Français		True	
+208	riccardie à feuille de chêne		Français			
+209	bog germanderwort		Anglais		True	
+209	riccardie des tourbières		Français		True	
+210	delicate germanderwort		Anglais		True	
+210	riccardie élégante		Français		True	
+210	riccardie délicate		Français			
+210	aneure découpée		Français			
+210	aneure multifide		Français			
+210	jongermanne découpée		Français			
+211	palmate germanderwort		Anglais		True	
+211	riccardie palmée		Français		True	
+211	aneure palmée		Français			
+211	jongermanne palmée		Français			
+212	lizard crystalwort		Anglais		True	
+212	riccie fourchue		Français		True	
+212	riccie bifurquée		Français			
+212	riccie deux fois fourchu		Français			
+213	cavernous crystalwort		Anglais		True	
+213	riccie caverneuse		Français		True	
+213	riccie poreuse		Français			
+214	floating crystalwort		Anglais		True	
+214	riccie flottante		Français		True	
+215	Frosts crystalwort		Anglais		True	
+215	riccie à marges rouges		Français		True	
+215	riccie de Frost		Français			
+216	Sullivants crystalwort		Anglais		True	
+216	riccie ventrue		Français		True	
+216	riccie de Sullivant		Français			
+217	pond crystalwort		Anglais		True	
+217	riccie précieuse		Français		True	
+217	riccie du Rhin		Français			
+218	riccie grisâtre		Français		True	
+219	purple-fringed liverwort		Anglais		True	
+219	ondine à ventre violet		Français		True	
+219	ricciocarpe flottant		Français			
+219	riccie nageante		Français			
+220	snow lungwort		Anglais		True	
+220	sautérie alpine		Français		True	
+221	pointed earwort		Anglais		True	
+221	scapanie apiculée		Français		True	
+222	short-stemmed earwort		Anglais		True	
+222	scapanie à tige courte		Français		True	
+223	ambiguous earwort		Anglais		True	
+223	scapanie ambiguë		Français		True	
+224	Carinthian earwort		Anglais		True	
+224	scapanie bois-pourri		Français		True	
+224	scapanie de Carinthie		Français			
+225	knobby earwort		Anglais		True	
+225	scapanie bosselée		Français		True	
+226	least earwort		Anglais		True	
+226	scapanie boréale		Français		True	
+226	scapanie écourté		Français			
+227	untidy earwort		Anglais		True	
+227	scapanie à pointes acérées		Français		True	
+227	scapanie désordonnée		Français			
+228	glaucous-headed earwort		Anglais		True	
+228	scapanie glauque		Français		True	
+228	scapanie à tête glauque		Français			
+229	narrow-lobed earwort		Anglais		True	
+229	scapanie à lobes étroits		Français		True	
+230	northern earwort		Anglais		True	
+230	scapanie hyperboréale		Français		True	
+230	scapanie hyperboréenne		Français			
+231	heath earwort		Anglais		True	
+231	scapanie des rivages		Français		True	
+231	scapanie des bruyères		Français			
+231	scapanie mouillée		Français			
+232	beach earwort		Anglais		True	
+232	scapanie des plages		Français		True	
+233	Kaurins earwort		Anglais		True	
+233	scapanie inusitée		Français		True	
+233	scapanie de Kaurin		Français			
+234	strap-leaved earwort		Anglais		True	
+234	scapanie à feuilles ligulées		Français		True	
+235	mucronate earwort		Anglais		True	
+235	scapanie mucronée		Français		True	
+236	grove earwort		Anglais		True	
+236	scapanie des bois		Français		True	
+236	scapanie du bois		Français			
+238	patch earwort		Anglais		True	
+238	scapanie cur-renversé		Français		True	
+238	scapanie obcordée		Français			
+239	bog earwort		Anglais		True	
+239	scapanie des tourbières		Français		True	
+239	scapanie des marais		Français			
+240	green-gemma earwort		Anglais		True	
+240	scapanie à gemmules vertes		Français		True	
+240	scapanie à bourgeons verts		Français			
+241	floppy earwort		Anglais		True	
+241	scapanie des sources		Français		True	
+241	scapanie à feuilles pendantes		Français			
+242	ciliate earwort		Anglais		True	
+242	scapanie délicate		Français		True	
+243	Norwegian earwort		Anglais		True	
+243	scapanie à petites feuilles		Français		True	
+244	Baffin Island earwort		Anglais		True	
+244	scapanie dentelée		Français		True	
+245	Spitsbergen earwort		Anglais		True	
+245	scapanie nordique		Français		True	
+245	scapanie barbelée		Français			
+246	subalpine earwort		Anglais		True	
+246	scapanie subalpine		Français		True	
+247	marsh earwort		Anglais		True	
+247	scapanie des marécages		Français		True	
+247	jongermanne uligineuse		Français			
+248	shady earwort		Anglais		True	
+248	scapanie dent-de-scie		Français		True	
+248	scapanie ombragée		Français			
+248	jongermanne des lieux ombragés		Français			
+249	water earwort		Anglais		True	
+249	scapanie ondulée		Français		True	
+249	jongermanne ondulée		Français			
+250	delicate notchwort		Anglais		True	
+250	lophozie des sables		Français		True	
+250	lophozie capitée		Français			
+252	purple-lobed notchwort		Anglais		True	
+252	lophozie à ventre noir		Français		True	
+252	lophozie à lobes pourpres		Français			
+254	jagged notchwort		Anglais		True	
+254	lophozie incisée		Français		True	
+254	jongermanne incisée		Français			
+256	alpine jagged notchwort		Anglais		True	
+256	lophozie à feuilles opaques		Français		True	
+258	marsh notchwort		Anglais		True	
+258	lophozie lâche		Français		True	
+260	monster pawwort		Anglais		True	
+260	mélusine splendide		Français		True	
+260	tétralophozie sétacée		Français			
+260	jongermanne en forme de crin		Français			
+261	woolly liverwort		Anglais		True	
+261	égipan laineux		Français		True	
+261	trichocolée tomenteuse		Français			
+261	trichocolée cotonneuse		Français			
+261	trichocole tomenteuse		Français			
+261	jongermanne tomenteuse		Français			
+262	cut notchwort		Anglais		True	
+262	tritomaire découpée		Français		True	
+262	tritomaire incisée		Français			
+262	jongermanne coupée		Français			
+263	large cut notchwort		Anglais		True	
+263	tritomaire disséquée		Français		True	
+263	tritomaire incisée profondément		Français			
+264	variable-leaved notchwort		Anglais		True	
+264	tritomaire à feuilles variables		Français		True	
+265	flush notchwort		Anglais		True	
+265	tritomaire élégante		Français		True	
+265	tritomaire polie		Français			
+266	polymorphic notchwort		Anglais		True	
+266	tritomaire polymorphe		Français		True	
+267	Lyons notchwort		Anglais		True	
+267	grande tritomaire		Français		True	
+267	tritomaire de Lyons		Français			
+267	jongermanne à cinq dents		Français			
+268	large notchwort		Anglais		True	
+268	tritomaire enflée		Français		True	
+269	mountain notchwort		Anglais		True	
+269	tritomaire des montagnes		Français		True	
+270	wiry fern moss		Anglais		True	
+270	thuidie petit-sapin		Français		True	
+270	thyidie des sapins		Français			
+270	tuidie des Sapins		Français			
+270	hypne des sapins		Français			
+272	dwarf earth moss		Anglais		True	
+272	acaulon mutique		Français		True	
+272	phasque sans pointe		Français			
+272	sphérange mutique		Français			
+272	phasque mutique		Français			
+272	phasque emoussé		Français			
+273	short-beaked screw moss		Anglais		True	
+273	aloïna à bec court		Français		True	
+274	rigid screw moss		Anglais		True	
+274	aloïna rigide		Français		True	
+274	barbule raide		Français			
+274	tortule raide		Français			
+274	barbule roide		Français			
+274	tortule roide		Français			
+275	short-toothed hump moss		Anglais		True	
+275	amblyodon blanchâtre		Français		True	
+276	Jurkatzka's feather moss		Anglais		True	
+276	amblystégie rampante		Français		True	
+276	hypne serpent		Français			
+276	amblystège rampant		Français			
+276	stéréode traînant		Français			
+276	hypne rampant		Français			
+278	Lapland yoke moss		Anglais		True	
+278	amphidie commune		Français		True	
+278	gymnostome de Lapponie		Français			
+279	Mougeot's yoke moss		Anglais		True	
+279	amphidie à feuilles linéaires		Français		True	
+279	amphidie de Mougeot		Français			
+279	amphoridie de Mougeot		Français			
+279	zygodon de Mougeot		Français			
+280	knot-hole moss		Anglais		True	
+280	amblystégie arboricole		Français		True	
+280	anacamptodon splanc		Français			
+280	adossette splachnoïde		Français			
+281	slender rock moss		Anglais		True	
+281	lanterne alpestre		Français		True	
+281	petrophile des Alpes		Français			
+282	Blytt's rock moss		Anglais		True	
+282	lanterne à pointe effilée		Français		True	
+283	thick-nerved rock moss		Anglais		True	
+283	lanterne à nervure épaisse		Français		True	
+285	snow rock moss		Anglais		True	
+285	lanterne des neiges		Français		True	
+285	andrée des neiges		Français			
+285	petrophile des neiges		Français			
+286	obovate rock moss		Anglais		True	
+286	lanterne à feuilles obovées		Français		True	
+286	andrée à feuilles obovées		Français			
+287	dusky rock moss		Anglais		True	
+287	lanterne noire		Français		True	
+287	andrée de Roth		Français			
+287	petrophile de Roth		Français			
+288	black rock moss		Anglais		True	
+288	lanterne des rochers		Français		True	
+288	andrée des rochers		Français			
+288	andréée des rochers		Français			
+288	petrophile des rochers		Français			
+289	slender silver moss		Anglais		True	
+289	bryum ficelle		Français		True	
+289	bry à chatons		Français			
+292	slender anomodon		Anglais		True	
+292	anomodon atténué		Français		True	
+292	anomode atténué		Français			
+292	leskée atténuée		Français			
+292	buissonnette atténuée		Français			
+293	blunt-leaved anomodon		Anglais		True	
+293	anomodon mineur		Français		True	
+293	eleutérie mineure		Français			
+294	long-beaked anomodon		Anglais		True	
+294	anomodon à longue pointe		Français		True	
+294	buissonnette à bec		Français			
+295	Rugel's anomodon		Anglais		True	
+295	anomodon à oreillettes		Français		True	
+296	tall anomodon		Anglais		True	
+296	anomodon robuste		Français		True	
+296	leskée sarmenteuse		Français			
+296	anomodon sarmenteux		Français			
+296	eleutérie sarmenteuse		Français			
+296	neckère sarmenteuse		Français			
+297	sprig moss		Anglais		True	
+297	branchette dressée		Français		True	
+297	angstroemie brindille		Français			
+298	serrate aphanorrhegma		Anglais		True	
+298	korrigan dentelé		Français		True	
+299	carrion moss		Anglais		True	
+299	aplodon arctique		Français		True	
+300	Andersson's arctic moss		Anglais		True	
+300	faux-dicrane arctique		Français		True	
+301	tawny fork moss		Anglais		True	
+301	faux-dicrane fauve		Français		True	
+302	northern fork moss		Anglais		True	
+302	faux-dicrane nordique		Français		True	
+302	bifurque hyperboréenne		Français			
+303	ridged smoothcap moss		Anglais		True	
+303	atric denté		Français		True	
+304	lesser smoothcap moss		Anglais		True	
+304	atric à feuilles étroites		Français		True	
+304	catherinette retrécie		Français			
+305	strongly crispate smoothcap moss		Anglais		True	
+305	atric tomenteux		Français		True	
+306	crispate smoothcap moss		Anglais		True	
+306	atric crispé		Français		True	
+307	slender smoothcap moss		Anglais		True	
+307	atric délicat		Français		True	
+307	catherinette délicate		Français			
+308	little groove moss		Anglais		True	
+308	petite aulacomnie		Français		True	
+308	mnie androgyne		Français			
+308	aulacomnie androgyne		Français			
+308	aulocomnion androgyn		Français			
+308	aulacomnion androgyne		Français			
+308	mniole androgyne		Français			
+308	bry androgin		Français			
+309	ribbed bog moss		Anglais		True	
+309	aulacomnie des marais		Français		True	
+309	mnie des marais		Français			
+309	hypne des marais		Français			
+309	aulacomne des marais		Français			
+309	aulocomnion des marais		Français			
+309	mniole des marais		Français			
+309	bry des marais		Français			
+310	mountain groove moss		Anglais		True	
+310	aulacomnie gonflée		Français		True	
+310	mniole enflé		Français			
+311	curly beard moss		Anglais		True	
+311	barbule des champs		Français		True	
+311	barbule enveloppée		Français			
+311	tortule enveloppée		Français			
+311	barbule roulée		Français			
+312	prickly beard moss		Anglais		True	
+312	barbule ubiquiste		Français		True	
+312	barbule ongle doiseau		Français			
+312	barbule onguiculée		Français			
+312	tortule ongle doiseau		Français			
+312	barbule unguiculée		Français			
+313	straight-leaved apple moss		Anglais		True	
+313	bartramie à feuilles droites		Français		True	
+313	barthramie ithyphylle		Français			
+313	pommette majeure		Français			
+313	barthramie à feuilles droites		Français			
+314	common apple moss		Anglais		True	
+314	bartramie pommette		Français		True	
+314	bartramie à capsules en forme de pomme		Français			
+314	bartramie pomiforme		Français			
+314	barthramie porte-pomme		Français			
+314	bartramie commune		Français			
+314	pommette commune		Français			
+314	barthramie vulgaire		Français			
+314	barthramie crépue		Français			
+315	sharp-leaved Blind's moss		Anglais		True	
+315	blindie aiguë		Français		True	
+315	rasule subulée		Français			
+316	acuminate ragged moss		Anglais		True	
+316	buissonnette acuminée		Français		True	
+316	buissonnette pointue		Français			
+317	acute ragged moss		Anglais		True	
+317	buissonnette aiguë		Français		True	
+318	whitish ragged moss		Anglais		True	
+318	buissonnette blanchâtre		Français		True	
+318	hypne blanchâtre		Français			
+318	brachythèque blanchâtre		Français			
+319	field ragged moss		Anglais		True	
+319	buissonnette des champs		Français		True	
+319	brachythèque des champs		Français			
+320	short-leaved ragged moss		Anglais		True	
+320	buissonnette équivoque		Français		True	
+321	taiga ragged moss		Anglais		True	
+321	buissonnette crispée		Français		True	
+322	falcate ragged moss		Anglais		True	
+322	buissonnette des arbres		Français		True	
+323	snow feather moss		Anglais		True	
+323	buissonnette des neiges		Français		True	
+324	bright ragged moss		Anglais		True	
+324	buissonnette ubiquiste		Français		True	
+324	hypne gai		Français			
+326	wide-leaved ragged moss		Anglais		True	
+326	buissonnette à feuilles larges		Français		True	
+327	rusty ragged moss		Anglais		True	
+327	buissonnette plumeuse		Français		True	
+327	hypne plumeux		Français			
+327	brachythèque plumeux		Français			
+327	hypne plumuleux		Français			
+327	hypne en plume		Français			
+328	matted ragged moss		Anglais		True	
+328	buissonnette à nervure longue		Français		True	
+328	hypne des peupliers		Français			
+328	brachythèque des peupliers		Français			
+329	reflexed ragged moss		Anglais		True	
+329	buissonnette réfléchie		Français		True	
+329	hypne réféchi		Français			
+330	river ragged moss		Anglais		True	
+330	buissonnette des rivières		Français		True	
+330	brachythèque des rives		Français			
+330	hypne des rives		Français			
+331	glaucous green ragged moss		Anglais		True	
+331	buissonnette méridionale		Français		True	
+332	rough-stalked ragged moss		Anglais		True	
+332	buissonnette commune		Français		True	
+332	brachytécie à soie raide		Français			
+332	hypne fourgon		Français			
+332	brachythèque fourgon		Français			
+332	hypne foulon		Français			
+333	Starke's ragged moss		Anglais		True	
+333	buissonnette ambiguë		Français		True	
+333	stéréode de Stark		Français			
+334	thick ragged moss		Anglais		True	
+334	buissonnette turgide		Français		True	
+335	velvet ragged moss		Anglais		True	
+335	buissonnette veloutée		Français		True	
+335	brachytécie veloutée		Français			
+335	hypne velouté		Français			
+335	brachythèque velouté		Français			
+336	meadow plait moss		Anglais		True	
+336	hypne des prés		Français		True	
+338	recurved brotherella		Anglais		True	
+338	dorure des forêts		Français		True	
+338	stéréode recourbé		Français			
+339	bending Bruch's moss		Anglais		True	
+339	bruchie flexueuse		Français		True	
+340	pale mat moss		Anglais		True	
+340	buissonnette papilleuse		Français		True	
+340	hypne vert dherbe		Français			
+341	New England mat moss		Anglais		True	
+341	buissonnette à feuilles tordues		Français		True	
+342	red beard moss		Anglais		True	
+342	pixie rouge		Français		True	
+343	drooping bryum		Anglais		True	
+343	bryum réticulé		Français		True	
+345	black-spored bryum		Anglais		True	
+345	bryum archange		Français		True	
+349	arctic bryum		Anglais		True	
+349	bryum arctique		Français		True	
+351	silvery bryum		Anglais		True	
+351	bryum argenté		Français		True	
+351	bry argenté		Français			
+352	bimous marsh bryum		Anglais		True	
+352	bryum brunâtre		Français		True	
+352	bryum bisannuel		Français			
+352	bry bisannuel		Français			
+354	Blind's bryum		Anglais		True	
+354	bryum minuscule		Français		True	
+354	bryum de Blind		Français			
+355	tufted bryum		Anglais		True	
+355	bryum cespiteux		Français		True	
+355	bryum en gazon		Français			
+355	bry en gazon		Français			
+355	bry gazonneux		Français			
+356	beautiful bryum		Anglais		True	
+356	bryum cylindrique		Français		True	
+356	bryum faux-calobryum		Français			
+357	matted bryum		Anglais		True	
+357	bryum carpette		Français		True	
+357	branchule à belles feuilles		Français			
+358	capillary bryum		Anglais		True	
+358	bryum capillaire		Français		True	
+358	bryum chevelu		Français			
+358	bry capillaire		Français			
+359	tight-tufted bryum		Anglais		True	
+359	bryum commun		Français		True	
+361	pink-red compact bryum		Anglais		True	
+361	bryum rouge		Français		True	
+362	round-leaved bryum		Anglais		True	
+362	bryum à feuilles rondes		Français		True	
+363	orange-tuber bryum		Anglais		True	
+363	bryum des champs		Français		True	
+364	bicoloured bryum		Anglais		True	
+364	bryum bicolore		Français		True	
+364	bry dichotome		Français			
+366	elegant bryum		Anglais		True	
+366	bryum élégant		Français		True	
+366	bry élégant		Français			
+367	small-bud bryum		Anglais		True	
+367	bryum à petites gemmules		Français		True	
+368	bud-tipped bryum		Anglais		True	
+368	bryum gemmipare		Français		True	
+369	raspberry bryum		Anglais		True	
+369	bryum à petits tubercules		Français		True	
+370	Knowlton's bryum		Anglais		True	
+370	bryum nordique		Français		True	
+370	bryum de Knowlton		Français			
+371	Syed's bryum		Anglais		True	
+371	bryum chevelu		Français		True	
+374	long-stalked bryum		Anglais		True	
+374	bryum à soie longue		Français		True	
+375	Baltic bryum		Anglais		True	
+375	bryum furtif		Français		True	
+375	bryum de Marrat		Français			
+376	Muehlenbeck's bryum		Anglais		True	
+376	bryum à feuilles concaves		Français		True	
+377	pale bryum		Anglais		True	
+377	bryum rose		Français		True	
+377	bryum pâle		Français			
+377	bry pâle		Français			
+378	tall-clustered bryum		Anglais		True	
+378	bryum pâlissant		Français		True	
+378	bry pâle		Français			
+378	bry pâlissant		Français			
+379	common green bryum		Anglais		True	
+379	grand bryum		Français		True	
+379	bryum faux triangle		Français			
+379	bry faux triquètre		Français			
+379	bry ventru		Français			
+380	crimson-tuber bryum		Anglais		True	
+380	bryum à tubercules rouges		Français		True	
+381	saltmarsh bryum		Anglais		True	
+381	bryum salin		Français		True	
+382	yellow-tuber bryum		Anglais		True	
+382	bryum à tubercules jaunes		Français		True	
+383	topshape bryum		Anglais		True	
+383	bryum changeant		Français		True	
+383	bryum en toupie		Français			
+383	bry en toupie		Français			
+383	bry-toupie		Français			
+384	swamp bryum		Anglais		True	
+384	bryum des marécages		Français		True	
+386	river bryum		Anglais		True	
+386	bryum vert		Français		True	
+387	violet bryum		Anglais		True	
+387	bryum violet		Français		True	
+388	sea bryum		Anglais		True	
+388	bryum marin		Français		True	
+388	bry Warnéen		Français			
+389	Weigel's bryum		Anglais		True	
+389	bryum à feuilles décurrentes		Français		True	
+390	Wright's bryum		Anglais		True	
+390	bryum à capsule rouge		Français		True	
+390	bryum de Wright		Français			
+391	brown shield moss		Anglais		True	
+391	gnome discret		Français		True	
+391	buxbaumie sans feuilles		Français			
+391	buxbaumie sans feuille		Français			
+391	saccophore commune		Français			
+391	pied de cheval commun		Français			
+392	beautiful branch moss		Anglais		True	
+392	fougerole commune		Français		True	
+392	hypne de Haldan		Français			
+392	hypne à bec recourbé		Français			
+393	heart-leaved spear moss		Anglais		True	
+393	calliergon commun		Français		True	
+393	hypne feuilles en coeur		Français			
+393	hypne à feuilles cordées		Français			
+393	hypne à feuilles en cur		Français			
+393	stéréode à feuilles en forme de cur		Français			
+393	hypne en coeur		Français			
+394	giant spear moss		Anglais		True	
+394	calliergon géant		Français		True	
+394	hypne géant		Français			
+395	Richardson's spear moss		Anglais		True	
+395	calliergon boréal		Français		True	
+397	common large wetland moss		Anglais		True	
+397	calliergonelle cuspidée		Français		True	
+397	hypne pointu		Français			
+397	hypne cuspidé		Français			
+397	stéréode pointu		Français			
+399	golden creeping moss		Anglais		True	
+399	campylie à feuilles dorées		Français		True	
+399	hypne à feuilles dorées		Français			
+399	hypne à feuilles dor		Français			
+399	stéréode à feuilles dorées		Français			
+401	dull starry fen moss		Anglais		True	
+401	campylie allongée		Français		True	
+402	yellow starry fen moss		Anglais		True	
+402	campylie étoilée		Français		True	
+402	hypne étoilé		Français			
+402	hypne en étoile		Français			
+402	stéréode étoilé		Français			
+403	Haller's fine wet moss		Anglais		True	
+403	campylie des rochers		Français		True	
+403	stéréode de Haller		Français			
+403	hypne de Haller		Français			
+405	common fine wet moss		Anglais		True	
+405	campylie hispide		Français		True	
+407	Sommerfelt's fine wet moss		Anglais		True	
+407	campylie ambiguë		Français		True	
+407	hypne de Sommerfelt		Français			
+407	hypne de Sommerfeld		Français			
+409	Schimper's swan-neck moss		Anglais		True	
+409	torpied arctique		Français		True	
+409	campylope de schimper		Français			
+410	sandstone swan-neck moss		Anglais		True	
+410	servan des rochers		Français		True	
+411	black golf club moss		Anglais		True	
+411	noiraude bâton-de-golf		Français		True	
+411	noirette commune		Français			
+411	weissie noirâte		Français			
+412	round-leaved ceratodon moss		Anglais		True	
+412	cératodon varié		Français		True	
+413	fire moss		Anglais		True	
+413	cératodon pourpre		Français		True	
+413	cornident pourpré		Français			
+413	cératodon purpurin		Français			
+413	cornident purpurin		Français			
+413	dicrane purpurin		Français			
+414	wide-leaved cinclidium moss		Anglais		True	
+414	mnie à feuilles larges		Français		True	
+415	sooty cupola moss		Anglais		True	
+415	mnie apiculée		Français		True	
+415	coupoline stygienne		Français			
+416	ovate cupola moss		Anglais		True	
+416	mnie à feuilles rondes		Français		True	
+417	hair-pointed moss		Anglais		True	
+417	buissonnette porte-poil		Français		True	
+417	cirriphylle porte-poil		Français			
+417	hypne porte-poil		Français			
+417	eurhynque pilifère		Français			
+417	hypne pilifère		Français			
+418	American tree moss		Anglais		True	
+418	climacie méridionale		Français		True	
+418	climacie dAmérique		Français			
+418	escalinette dAmérique		Français			
+419	northern tree moss		Anglais		True	
+419	climacie arbustive		Français		True	
+419	hypne en arbre		Français			
+419	hypne arbrisseau		Français			
+419	climacie petit arbre		Français			
+419	climacie en arbre		Français			
+419	climacium arbrisseau		Français			
+419	climacion dendroïde		Français			
+419	escalinette arborée		Français			
+419	leskée arbrisseau		Français			
+420	coast creeping moss		Anglais		True	
+420	amblystégie prolifère		Français		True	
+421	helmet moss		Anglais		True	
+421	quinte boréale		Français		True	
+421	conule du nord		Français			
+421	conule boréale		Français			
+422	sieve-tooth moss		Anglais		True	
+422	grimmie criblée		Français		True	
+423	fern-leaved hook moss		Anglais		True	
+423	cratoneuron crochet		Français		True	
+423	hypne fougère		Français			
+423	hypne fougerin		Français			
+424	chalk comb moss		Anglais		True	
+424	hypne papilleuse		Français		True	
+424	stéréode à feuilles presque droites		Français			
+427	glaucous dogtooth moss		Anglais		True	
+427	cynodonte glauque		Français		True	
+428	many-fruited dogtooth moss		Anglais		True	
+428	cynodonte dressé		Français		True	
+428	crétinette féconde		Français			
+429	hairy dogtooth moss		Anglais		True	
+429	cynodonte arctique		Français		True	
+429	dicrane à plusieurs fruits		Français			
+430	swollen dogtooth moss		Anglais		True	
+430	cynodonte pomme-d'Adam		Français		True	
+430	dicrane bossu		Français			
+431	strumose dogtooth moss		Anglais		True	
+431	cynodonte discret		Français		True	
+432	delicate dogtooth moss		Anglais		True	
+432	cynodonte délicat		Français		True	
+433	short-pointed lantern moss		Anglais		True	
+433	mnie à feuilles minces		Français		True	
+434	obtuse-pointed lantern moss		Anglais		True	
+434	mnie membraneuse		Français		True	
+435	hairlike claw moss		Anglais		True	
+435	fontinale capillaire		Français		True	
+436	lance-leaved claw moss		Anglais		True	
+436	fontinale faucille		Français		True	
+436	fontinale faucillere		Français			
+437	pale claw moss		Anglais		True	
+437	fontinale pâle		Français		True	
+438	sickle-leaved claw moss		Anglais		True	
+438	fontinale à feuilles arquées		Français		True	
+439	transparent fork moss		Anglais		True	
+439	dicranelle pellucide		Français		True	
+439	dicrane pellucide		Français			
+439	bifurque diaphane		Français			
+440	spur-necked forklet moss		Anglais		True	
+440	dicranelle goitreuse		Français		True	
+440	dicrane goîtreux		Français			
+440	dicrane petit goître		Français			
+440	crétinette petit-goître		Français			
+440	dicrane à petit gloître		Français			
+441	curl-leaved forklet moss		Anglais		True	
+441	dicranelle crispée		Français		True	
+441	bifurque crépue		Français			
+442	silky forklet moss		Anglais		True	
+442	dicranelle soyeuse		Français		True	
+442	dicranelle plurilatérale		Français			
+442	dicrane plurilatéral		Français			
+442	dicranelle unilatérale		Français			
+442	dicrane unilatéral		Français			
+442	bifurque unilatérale		Français			
+443	marsh forklet moss		Anglais		True	
+443	dicranelle des marais		Français		True	
+443	dicrane hérissé		Français			
+444	red forklet moss		Anglais		True	
+444	dicranelle rousse		Français		True	
+444	dicrane rougeâtre		Français			
+444	dicrane roussâtre		Français			
+444	bifurque roussâtre		Français			
+445	Schreber's forklet moss		Anglais		True	
+445	dicranelle à feuilles engainantes		Français		True	
+445	dicrane de Schreber		Français			
+445	bifurque de Schreber		Français			
+446	field forklet moss		Anglais		True	
+446	dicranelle des champs		Français		True	
+447	awl-leaved forklet moss		Anglais		True	
+447	dicranelle aiguille		Français		True	
+448	variable forklet moss		Anglais		True	
+448	dicranelle variable		Français		True	
+448	dicrane varié		Français			
+448	dicrane variable		Français			
+448	bifurque changeante		Français			
+448	dicrane changeant		Français			
+449	beaked bow moss		Anglais		True	
+449	dicranodonte effeuillé		Français		True	2014-11-30 : Genre corrigé de féminin (tel que publié dans la Flore) à masculin. Confirmé par Arrold Lavoie
+449	dicranodontie dénudée		Français			
+450	mountain thatch moss		Anglais		True	
+450	coussin des rochers		Français		True	
+450	weisie crispée		Français			
+450	verdule crepue		Français			
+451	sharp-leaved broom moss		Anglais		True	
+451	dicrane à feuilles aiguës		Français		True	
+452	Bonjean's broom moss		Anglais		True	
+452	dicrane confondant		Français		True	
+453	short-leaved broom moss		Anglais		True	
+453	dicrane crispé		Français		True	
+454	condensed broom moss		Anglais		True	
+454	dicrane à feuilles dressées		Français		True	
+454	bifurque condensée		Français			
+455	long-forked broom moss		Anglais		True	
+455	dicrane élancé		Français		True	
+455	bifurque allongée		Français			
+456	whip broom moss		Anglais		True	
+456	dicrane petit-fouet		Français		True	
+456	dicrane à fouets		Français			
+456	bifurque sarmenteuse		Français			
+456	dicrane sarmenteux		Français			
+458	bendy herons-bill moss		Anglais		True	
+458	dicrane flexueux		Français		True	
+458	bifurque flexueuse		Français			
+459	fragile-leaved broom moss		Anglais		True	
+459	dicrane à feuilles fragiles		Français		True	
+460	fine-leaved broom moss		Anglais		True	
+460	dicrane à nervure large		Français		True	
+460	dicrane fauve		Français			
+460	bifurque faûve		Français			
+462	curly heron's-bill moss		Anglais		True	
+462	dicrane commun		Français		True	
+463	Greenland broom moss		Anglais		True	
+463	dicrane arctique		Français		True	
+463	bifurque du Grönland		Français			
+464	variable-leaved broom moss		Anglais		True	
+464	dicrane à feuilles variables		Français		True	
+465	greater broom moss		Anglais		True	
+465	grand dicrane		Français		True	
+465	dicrane élevé		Français			
+467	mountain broom moss		Anglais		True	
+467	petit dicrane		Français		True	
+467	dicrane des montagnes		Français			
+467	dicrane de montagne		Français			
+467	bifurque des montagnes		Français			
+469	Muehlenbeck's broom moss		Anglais		True	
+469	dicrane laineux		Français		True	
+470	Ontario broom moss		Anglais		True	
+470	dicrane rugueux		Français		True	
+471	wavy-leaved broom moss		Anglais		True	
+471	dicrane à soies multiples		Français		True	
+471	dicrane à plusieurs soies		Français			
+471	dicrane ondulé		Français			
+471	bifurque multiflore		Français			
+472	common broom moss		Anglais		True	
+472	dicrane à balai		Français		True	
+472	dicrane en balai		Français			
+472	dicrane à balais		Français			
+472	bifurque à balais		Français			
+473	confusing broom moss		Anglais		True	
+473	dicrane boréal		Français		True	
+474	spurred broom moss		Anglais		True	
+474	dicrane bâtard		Français		True	
+474	bifurque bâtarde		Français			
+475	wavy broom moss		Anglais		True	
+475	dicrane ondulé		Français		True	
+476	green broom moss		Anglais		True	
+476	dicrane arboricole		Français		True	
+478	pointed beard moss		Anglais		True	
+478	pixie à pointe aiguë		Français		True	
+479	rough-leaved beard moss		Anglais		True	
+479	pixie à feuilles rugueuses		Français		True	
+479	didymodon à feuilles rudes		Français			
+480	false beard moss		Anglais		True	
+480	pixie trompeuse		Français		True	
+480	barbule trompeuse		Français			
+480	tortule trompeuse		Français			
+482	rusty beard moss		Anglais		True	
+482	pixie ferrugineuse		Français		True	
+483	Michigan beard moss		Anglais		True	
+483	pixie arctique		Français		True	
+484	pointed beard moss		Anglais		True	
+484	pixie rigide		Français		True	
+484	trichostome rigide		Français			
+484	trichostome raide		Français			
+484	jumelline rigide		Français			
+485	olive beard moss		Anglais		True	
+485	pixie à feuilles décurrentes		Français		True	
+485	didymodon incrusté		Français			
+485	trichostome du tuf		Français			
+485	ciliaire tophacé		Français			
+485	ciliaire des tufs		Français			
+486	nut moss		Anglais		True	
+486	bonnet d'elfe		Français		True	
+486	diphyscie feuillée		Français			
+486	vessiette feuillée		Français			
+486	diphyscie foliée		Français			
+486	doublevessie à feuilles		Français			
+486	buxbaumie feuillée		Français			
+487	naked flag moss		Anglais		True	
+487	discélie nue		Français		True	
+487	rougette nue		Français			
+488	erect-fruited iris moss		Anglais		True	
+488	tresse à feuilles étroites		Français		True	
+488	distique capillaire		Français			
+488	jumelinne capillaire		Français			
+488	didymodon capillaire		Français			
+489	inclined iris moss		Anglais		True	
+489	tresse inclinée		Français		True	
+490	flexible cow-hair moss		Anglais		True	
+490	ditric flexueux		Français		True	
+490	ditric à soie flexueuse		Français			
+490	leptotric à tiges flexueuse		Français			
+491	slender cow-hair moss		Anglais		True	
+491	ditric élancé		Français		True	
+492	dark cow-hair moss		Anglais		True	
+492	ditric linéaire		Français		True	
+493	pale cow-hair moss		Anglais		True	
+493	ditric pâle		Français		True	
+493	leptotric pâle		Français			
+493	trichostome pâle		Français			
+493	ciliaire pâle		Français			
+494	brown cow-hair moss		Anglais		True	
+494	ditric brun		Français		True	
+494	trichostome tordu		Français			
+494	jumelinne naine		Français			
+494	didymodon nain		Français			
+495	Knieff's hook moss		Anglais		True	
+495	faucillette courbée		Français		True	
+495	hypne à bec		Français			
+495	hypne crochu		Français			
+495	hypne courbé		Français			
+495	stéréode courbée		Français			
+496	arctic hook moss		Anglais		True	
+496	faucillette arctique		Français		True	
+498	long-leaved hook moss		Anglais		True	
+498	faucillette à feuilles longues		Français		True	
+500	polygamous hook moss		Anglais		True	
+500	faucillette polygame		Français		True	
+500	hypne polygame		Français			
+502	Drummond's bark moss		Anglais		True	
+502	houppe rampante		Français		True	
+503	cylindrical extinguisher moss		Anglais		True	
+503	éteignoir des neiges		Français		True	
+503	éteignoir parent		Français			
+504	Macoun's extinguisher moss		Anglais		True	
+504	éteignoir arctique		Français		True	
+505	alpine extinguisher moss		Anglais		True	
+505	éteignoir alpin		Français		True	
+506	white-mouthed extinguisher moss		Anglais		True	
+506	éteignoir à col court		Français		True	
+507	stubby extinguisher moss		Anglais		True	
+507	petit éteignoir		Français		True	
+508	fringed extinguisher moss		Anglais		True	
+508	éteignoir frangé		Français		True	
+508	éteignoir cilié		Français			
+509	red-toothed extinguisher moss		Anglais		True	
+509	éteignoir à long col		Français		True	
+510	spiral extinguisher moss		Anglais		True	
+510	grand éteignoir		Français		True	
+511	ribbed extinguisher moss		Anglais		True	
+511	éteignoir strié		Français		True	
+512	flat-stemmed entodon moss		Anglais		True	
+512	entodon comprimé		Français		True	
+512	eleutérie à rameaux radiculeux		Français			
+512	neckère rampante		Français			
+513	round-stemmed entodon moss		Anglais		True	
+513	entodon séduisant		Français		True	
+513	eleutérie séductrice		Français			
+515	thick-nerved earth moss		Anglais		True	
+515	éphémère à nervure épaisse		Français		True	
+515	phasque à nervue épaisse		Français			
+516	serrated earth moss		Anglais		True	
+516	éphémère à feuilles dentées		Français		True	
+516	éphémère dentelé		Français			
+516	phasque dentelé		Français			
+516	phasque à feuilles en dents de scie		Français			
+517	slender-toothed earth moss		Anglais		True	
+517	éphémère épineux		Français		True	
+518	elegant beaked moss		Anglais		True	
+518	longbec gracieux		Français		True	
+518	hypne hérissonné		Français			
+520	maidenhair pocket moss		Anglais		True	
+520	fissident faux-adiante		Français		True	
+520	fissident doradille		Français			
+520	fissident adianthoïde		Français			
+520	fissident à feuilles dadianthe		Français			
+520	fissident adiante		Français			
+520	fendule adiantine		Français			
+520	dicrane adianthe		Français			
+521	lesser pocket moss		Anglais		True	
+521	fissident faux-bryum		Français		True	
+521	fissident faux bry		Français			
+521	fissident bryoïde		Français			
+521	fendule bryoïde		Français			
+521	dicrane verdoyant		Français			
+522	Bush's pocket moss		Anglais		True	
+522	fissident anodin		Français		True	
+523	rock pocket moss		Anglais		True	
+523	fissident crête-de-coq		Français		True	
+525	pygmy pocket moss		Anglais		True	
+525	fissident mince		Français		True	
+525	fissident grêle		Français			
+525	fissident petit		Français			
+525	fendule minime		Français			
+526	water pocket moss		Anglais		True	
+526	fissident des sources		Français		True	
+526	fissident aquatique		Français			
+527	minute pocket moss		Anglais		True	
+527	fissident minuscule		Français		True	
+528	blunt pocket moss		Anglais		True	
+528	fissident à feuilles obtuses		Français		True	
+529	purple-stalked pocket moss		Anglais		True	
+529	fissident fausse-osmonde		Français		True	
+529	fissident à feuilles dosmonde		Français			
+529	fendule osmondioïde		Français			
+530	tree pocket moss		Anglais		True	
+530	fissident obscur		Français		True	
+531	yew-leaved pocket moss		Anglais		True	
+531	fissident à feuilles d'if		Français		True	
+531	fendule à feuilles dif		Français			
+531	dicrane à feuilles dif		Français			
+532	greater water moss		Anglais		True	
+532	fontinale commune		Français		True	
+532	fontinale incombustible		Français			
+532	fontinale antifébrile		Français			
+532	fontinale majeure		Français			
+533	slender water moss		Anglais		True	
+533	fontinale gracile		Français		True	
+534	river moss		Anglais		True	
+534	fontinale fausse-hypne		Français		True	
+535	New England water moss		Anglais		True	
+535	fontinale variable		Français		True	
+536	sphagnum-like water moss		Anglais		True	
+536	fontinale ambiguë		Français		True	
+537	Sullivant's water moss		Anglais		True	
+537	petite fontinale		Français		True	
+540	fan moss		Anglais		True	
+540	hyade à chapeau poilu		Français		True	
+541	common cord moss		Anglais		True	
+541	funaire charbonnière		Français		True	
+541	funaire hygrométrique		Français			
+541	cordette hygrométrique		Français			
+542	toothless grimmia		Anglais		True	
+542	grimmie édentée		Français		True	
+543	copper grimmia		Anglais		True	
+543	grimmie du cuivre		Français		True	
+543	ninette noircie		Français			
+544	bow-stalked grimmia		Anglais		True	
+544	grimmie ventripotente		Français		True	
+545	Donn's grimmia		Anglais		True	
+545	grimmie à capsule jaune		Français		True	
+545	ninette gris-noirâtre		Français			
+546	large grimmia		Anglais		True	
+546	grimmie costaude		Français		True	
+547	brown grimmia		Anglais		True	
+547	grimmie élancée		Français		True	
+547	ninette allongée		Français			
+548	string grimmia		Anglais		True	
+548	grimmie tressée		Français		True	
+548	grimmie en corde		Français			
+548	racomitre cordelette		Français			
+549	black grimmia		Anglais		True	
+549	grimmie noire		Français		True	
+551	long-beaked grimmia		Anglais		True	
+551	grimmie à long bec		Français		True	
+551	ninette à long bec		Français			
+552	water grimmia		Anglais		True	
+552	grimmie à feuilles molles		Français		True	
+553	Muehlenbeck's grimmia		Anglais		True	
+553	grimmie à deux crêtes		Français		True	
+554	Olney's grimmia		Anglais		True	
+554	grimmie col-de-cygne		Français		True	
+554	grimmie dOlney		Français			
+555	oval grimmia		Anglais		True	
+555	grimmie ovale		Français		True	
+555	ninette ovale		Français			
+555	dicrane ovale		Français			
+556	hair grimmia		Anglais		True	
+556	grimmie porte-poil		Français		True	
+556	ninette porte-poil		Français			
+557	alpine grimmia		Anglais		True	
+557	grimmie ambiguë		Français		True	
+559	round-nerved grimmia		Anglais		True	
+559	grimmie à nervure cylindrique		Français		True	
+560	twisted grimmia		Anglais		True	
+560	grimmie à feuilles tordues		Français		True	
+561	hair-pointed grimmia		Anglais		True	
+561	grimmie à feuilles aristées		Français		True	
+561	grimmie capillaire		Français			
+561	grimmie trichophylle		Français			
+561	ninette à feuilles porte-poils		Français			
+562	dingy grimmia		Anglais		True	
+562	grimmie à feuilles succulentes		Français		True	
+562	ninette unicolore		Français			
+563	tufted rock beardless moss		Anglais		True	
+563	pixie vert-de-gris		Français		True	
+563	rasule vert de gris		Français			
+564	boreal beardless moss		Anglais		True	
+564	pixie boréale		Français		True	
+565	varnished hook moss		Anglais		True	
+565	serpe à feuilles plissées		Français		True	
+567	tiny-leaved haplocladium		Anglais		True	
+567	leskée à petites feuilles		Français		True	
+567	stéréode à petites feuilles		Français			
+568	fragile anomodon		Anglais		True	
+568	anomodon fragile		Français		True	
+569	ciliate Hedwig's moss		Anglais		True	
+569	hedwigie ciliée		Français		True	
+569	hedwigie blanchâtre		Français			
+569	schistidie ciliée		Français			
+569	gymnostome cilié		Français			
+572	narrow-leaved wetland plume moss		Anglais		True	
+572	hélodie des marécages		Français		True	
+573	Heim's chain-teeth moss		Anglais		True	
+573	tortule éphémère		Français		True	
+573	pottie de Heim		Français			
+573	rasule de Heim		Français			
+573	gymnostome de Heim		Français			
+575	round stump moss		Anglais		True	
+575	fougerole à feuilles décurrentes		Français		True	
+575	buissonnette à fines stries		Français			
+576	flat stump moss		Anglais		True	
+576	fougerole des marécages		Français		True	
+577	dimorphous tangle moss		Anglais		True	
+577	cordelette à feuilles variables		Français		True	
+577	hétérocladie squarruleuse		Français			
+577	stéréode à double forme		Français			
+578	common flat-branch moss		Anglais		True	
+578	homalie aplatie		Français		True	
+578	homalie doradille		Français			
+578	homalie faux capillaire		Français			
+578	homalie faux politric		Français			
+578	homalie trichomane		Français			
+578	planule trichomanoïde		Français			
+578	leskée trichomane		Français			
+579	adnate hairy-grey moss		Anglais		True	
+579	fougerole rampante		Français		True	
+579	stéréode adhérent		Français			
+580	compressed willow feather moss		Anglais		True	
+580	amblystégie des marais		Français		True	
+580	hypne fluviatile		Français			
+581	willow feather moss		Anglais		True	
+581	amblystégie variable		Français		True	
+581	hypne fluviatile		Français			
+582	northern brook moss		Anglais		True	
+582	riverine alpestre		Français		True	
+582	stéréode alpestre		Français			
+583	Best's brook moss		Anglais		True	
+583	riverine à nervure forte		Français		True	
+584	spoon-leaved brook moss		Anglais		True	
+584	riverine cuillère		Français		True	
+585	broad-leaved brook moss		Anglais		True	
+585	riverine à feuilles ovales		Français		True	
+586	inflated brook moss		Anglais		True	
+586	riverine commune		Français		True	
+587	drab brook moss		Anglais		True	
+587	riverine terne		Français		True	
+588	mountain brook moss		Anglais		True	
+588	riverine des montagnes		Français		True	
+589	claw brook moss		Anglais		True	
+589	riverine à manchon		Français		True	
+590	polar brook moss		Anglais		True	
+590	riverine polaire		Français		True	
+591	Smith's brook moss		Anglais		True	
+591	riverine rigide		Français		True	
+592	denticulate-leaved brook moss		Anglais		True	
+592	riverine ovale		Français		True	
+593	Oakes wood moss		Anglais		True	
+593	hylocomie à nervure simple		Français		True	
+595	shaded woods moss		Anglais		True	
+595	hylocomie boréale		Français		True	
+595	hypne ombragée		Français			
+595	hypne des lieux ombragés		Français			
+595	hypne ombreux		Français			
+597	stairstep moss		Anglais		True	
+597	hylocomie brillante		Français		True	
+597	hypne brillante		Français			
+597	hypne éclatante		Français			
+597	hypne éclatant		Français			
+597	hylocome splendide		Français			
+597	hypne resplendissant		Français			
+598	curved-beaked beardless moss		Anglais		True	
+598	pixie à bec recourbé		Français		True	
+598	gymnostome à bec courbé		Français			
+601	Bamberger's golden plait moss		Anglais		True	
+601	hypne brune		Français		True	
+602	downy plait moss		Anglais		True	
+602	hypne lustrée		Français		True	
+602	stéréode beau-vert		Français			
+603	cypress-leaved plait moss		Anglais		True	
+603	hypne cyprès		Français		True	
+603	stéréode cupressiforme		Français			
+605	supine plait moss		Anglais		True	
+605	hypne inversée		Français		True	
+606	curved-leaved plait moss		Anglais		True	
+606	hypne à feuilles courbées		Français		True	
+606	stéréode à feuilles courbées		Français			
+607	Faurie's peacock moss		Anglais		True	
+607	hypne trompeuse		Français		True	
+608	pellucid plait moss		Anglais		True	
+608	hypne ciliée		Français		True	
+608	stéréode à urne presque droite		Français			
+609	Lindberg's plait moss		Anglais		True	
+609	hypne jaunâtre		Français		True	
+611	stump plait moss		Anglais		True	
+611	hypne pâle		Français		True	
+611	hypne pâlissant		Français			
+612	northern plait moss		Anglais		True	
+612	hypne plissée		Français		True	
+613	recurved plait moss		Anglais		True	
+613	hypne recourbée		Français		True	
+614	revolute plait moss		Anglais		True	
+614	hypne révolutée		Français		True	
+615	Vaucher's plait moss		Anglais		True	
+615	hypne boréale		Français		True	
+616	Mueller's silk moss		Anglais		True	
+616	fougerole plane		Français		True	
+617	neat silk moss		Anglais		True	
+617	fougerole gracieuse		Français		True	
+617	hypne joliet		Français			
+618	Blytt's fork moss		Anglais		True	
+618	faux-dicrane flexueux		Français		True	
+619	sickle-leaved fork moss		Anglais		True	
+619	faux-dicrane faucille		Français		True	
+619	fausse-dicrane à feuilles falciformes		Français			
+619	crétinette faucilliere		Français			
+620	snow fork moss		Anglais		True	
+620	faux-dicrane des neiges		Français		True	
+621	Starke's fork moss		Anglais		True	
+621	faux-dicrane alpin		Français		True	
+621	crétinette à feuilles courbes		Français			
+622	slender beaked moss		Anglais		True	
+622	longbec fougerole		Français		True	
+622	eurhynchie allongée		Français			
+622	hypne allongé		Français			
+622	eurhynque allongé		Français			
+625	golden thread moss		Anglais		True	
+625	poirette commune		Français		True	
+625	wébère pyriforme		Français			
+626	riparian feather moss		Anglais		True	
+626	amblystégie des rivages		Français		True	
+626	hypne des rives		Français			
+626	amblystège des rives		Français			
+627	rock feather moss		Anglais		True	
+627	leskée des rochers		Français		True	
+628	common Leske's moss		Anglais		True	
+628	leskée gracile		Français		True	
+628	buissonnette déliée		Français			
+629	blunt Leske's moss		Anglais		True	
+629	leskée obscure		Français		True	
+629	buissonnette obscure		Français			
+630	many-fruited Leske's moss		Anglais		True	
+630	leskée fertile		Français		True	
+630	leskée à fruits nombreux		Français			
+630	leskée polycarpe		Français			
+630	buissonnette fructifère		Français			
+630	leskée à plusieurs fruits		Français			
+631	white pincushion moss		Anglais		True	
+631	coussinet des bois		Français		True	
+631	leucobryum glauque		Français			
+631	mousse blanche		Français			
+631	leucobry glauque		Français			
+631	dicrane glauque		Français			
+631	bifurque glauque		Français			
+632	squirrel-tail moss		Anglais		True	
+632	leucodon queue-d'écureuil		Français		True	
+632	leucodon queue doiseau		Français			
+632	blanchedent queue décureuil		Français			
+632	dicrane queue décureuil		Français			
+635	Lindberg's maple moss		Anglais		True	
+635	leskée arboricole		Français		True	
+636	sickle-leaved loeskypnum		Anglais		True	
+636	guivre à feuilles arquées		Français		True	
+638	Wickes' loeskypnum		Anglais		True	
+638	guivre à feuilles droites		Français		True	
+638	calliergon de Wickes		Français			
+640	triangular-leaved thread moss		Anglais		True	
+640	meesie à feuilles décurrentes		Français		True	
+640	diplocome hexagone		Français			
+641	three-angled thread moss		Anglais		True	
+641	meesie dentée		Français		True	
+642	capillary thread moss		Anglais		True	
+642	meesie des marais		Français		True	
+642	méesie uligineuse		Français			
+642	mésiette des marais		Français			
+642	méesie fangeuse		Français			
+643	millimetre moss		Anglais		True	
+643	éphémère délicat		Français		True	
+643	micromitre délicate		Français			
+644	elongate copper moss		Anglais		True	
+644	cuivrine élancée		Français		True	
+645	alpine copper moss		Anglais		True	
+645	cuivrine terne		Français		True	
+646	swan's-neck leafy moss		Anglais		True	
+646	mnie à feuilles étroites		Français		True	
+646	mnie annuelle		Français			
+646	mnie en étoiles		Français			
+646	mnie en étoile		Français			
+646	mni à col-de-cygne		Français			
+646	étoilée à col de cygne		Français			
+646	bry en étoile		Français			
+647	clubmoss leafy moss		Anglais		True	
+647	mnie faux-lycopode		Français		True	
+649	bordered leafy moss		Anglais		True	
+649	mnie marginée		Français		True	
+649	bry à bord épais		Français			
+650	red-mouthed leafy moss		Anglais		True	
+650	mnie à épines		Français		True	
+651	star leafy moss		Anglais		True	
+651	mnie étoilée		Français		True	
+651	mnie en étoile		Français			
+651	étoilée stellaire		Français			
+652	Thomson's leafy moss		Anglais		True	
+652	mnie des escarpements		Français		True	
+653	small mousetail moss		Anglais		True	
+653	myurelle ficelle		Français		True	
+653	isocélie à châtons		Français			
+654	Siberian mousetail moss		Anglais		True	
+654	myurelle dentée		Français		True	
+655	dwarf mousetail moss		Anglais		True	
+655	myurelle délicate		Français		True	
+656	feathery neckera		Anglais		True	
+656	neckère pennée		Français		True	
+656	neckère empennée		Français			
+656	onduline empennée		Français			
+657	sickle-leaved hair moss		Anglais		True	
+657	polytric à feuilles falciformes		Français		True	
+657	faux-polytric à feuilles falciformes		Français			
+658	Hercynian hair moss		Anglais		True	
+658	polytric à feuilles droites		Français		True	
+658	faux-polytric de la forêt Noire		Français			
+658	oligotric de la Forêt-Noire		Français			
+658	catherinette glauque		Français			
+659	green spur moss		Anglais		True	
+659	oncophore vert-noir		Français		True	
+659	crétinette verdoyante		Français			
+660	Wahlenberg's spur moss		Anglais		True	
+660	oncophore pomme-dAdam		Français		True	
+660	crétinette de Wahlenberg		Français			
+661	golden erect-capsule moss		Anglais		True	
+661	stylite doré		Français		True	
+662	spoon-leaved golden erect-capsule moss		Anglais		True	
+662	stylite cuillère		Français		True	
+663	fine-leaved erect-capsule moss		Anglais		True	
+663	stylite enchevêtré		Français		True	
+664	shiny erect-capsule moss		Anglais		True	
+664	stylite dressé		Français		True	
+665	sharp-leaved bristle moss		Anglais		True	
+665	houppe des montagnes		Français		True	
+666	anomalous bristle moss		Anglais		True	
+666	houppe irrégulière		Français		True	
+666	orthotric irrégulier		Français			
+666	orthotric anomale		Français			
+667	elegant bristle moss		Anglais		True	
+667	houppe élégante		Français		True	
+668	blunt-leaved bristle moss		Anglais		True	
+668	houppe à feuilles obtuses		Français		True	
+668	orthotric à feuilles obtuses		Français			
+670	Ohio bristle moss		Anglais		True	
+670	houppe orientale		Français		True	
+671	pale bristle moss		Anglais		True	
+671	houppe pâle		Français		True	
+671	orthotric pâle		Français			
+671	orthotric pâlissant		Français			
+672	dwarf bristle moss		Anglais		True	
+672	houppe minuscule		Français		True	
+672	orthotric nain		Français			
+673	Pylaie's bristle moss		Anglais		True	
+673	houppe nordique		Français		True	
+673	orthotric de la Pylaie		Français			
+674	dark-green bristle moss		Anglais		True	
+674	houppe négligée		Français		True	
+675	showy bristle moss		Anglais		True	
+675	houppe remarquable		Français		True	
+675	orthotric élégant		Français			
+675	orthotric spécieux		Français			
+675	orthotric beau-port		Français			
+676	starlike bristle moss		Anglais		True	
+676	houppe étoilée		Français		True	
+676	orthotric étoilé		Français			
+677	limestone bristle moss		Anglais		True	
+677	houppe étranglée		Français		True	
+677	orthotric étranglé		Français			
+678	spreading beaked moss		Anglais		True	
+678	longbec à soie papilleuse		Français		True	
+678	eurhynchie fendue		Français			
+678	hypne de Swartzii		Français			
+678	hypne béant		Français			
+680	tufted fen moss		Anglais		True	
+680	paludelle hérissée		Français		True	
+680	paludelle squarreuse		Français			
+680	marécagine rude		Français			
+681	curled hook-moss		Anglais		True	
+681	palustrielle faucille		Français		True	
+681	hypne fauciller		Français			
+684	long-leaved fork moss		Anglais		True	
+684	tricot à feuilles longues		Français		True	
+684	bifurque à longues feuilles		Français			
+685	tiny cedar moss		Anglais		True	
+685	thuidie minuscule		Français		True	
+685	stéréode rappetissé		Français			
+688	pygmy cedar moss		Anglais		True	
+688	thuidie pygmée		Français		True	
+691	cuspidate earth moss		Anglais		True	
+691	phasque à feuilles cuspidées		Français		True	
+691	phasque cuspidé		Français			
+691	phasque à feuilles pointues		Français			
+691	phasque pointu		Français			
+693	American apple moss		Anglais		True	
+693	grand philonotis		Français		True	
+694	fountain apple moss		Anglais		True	
+694	philonotis commun		Français		True	
+694	philonotis des fontaines		Français			
+694	barthramie des fontaines		Français			
+694	hygrophile commune		Français			
+695	bog apple moss		Anglais		True	
+695	petit philonotis		Français		True	
+695	hygrophile de la Marche		Français			
+696	woolly apple moss		Anglais		True	
+696	philonotis nordique		Français		True	
+698	spreading-leaved earth moss		Anglais		True	
+698	korrigan à feuilles étalées		Français		True	
+698	physcomitrelle à feuilles étalées		Français			
+698	physcomitrielle étalée		Français			
+698	phasque étalé		Français			
+698	phasque à feuilles ouvertes		Français			
+698	phasque ouvert		Français			
+699	hidden urn moss		Anglais		True	
+699	korrigan dissimulé		Français		True	
+700	pear-shaped urn moss		Anglais		True	
+700	korrigan piriforme		Français		True	
+700	physcomitre piriforme		Français			
+700	physcomitre pyriforme		Français			
+700	physcomitrion pyriforme		Français			
+700	gymnostome à capsule en forme de poire		Français			
+700	gymnostome pyriforme		Français			
+700	rasule pyriforme		Français			
+700	bry pyriforme		Français			
+701	drooping hump moss		Anglais		True	
+701	bryum col-de-cygne		Français		True	
+702	Zier's hump moss		Anglais		True	
+702	bryum à capsule longue		Français		True	
+702	bry-massue		Français			
+703	toothed leafy moss		Anglais		True	
+703	mnie ciliée		Français		True	
+704	curved leafy moss		Anglais		True	
+704	mnie recourbée		Français		True	
+705	woodsy leafy moss		Anglais		True	
+705	mnie cuspidée		Français		True	
+705	mnie pointue		Français			
+705	mni pointu		Français			
+705	étoilée pointue		Français			
+705	bry pointu		Français			
+706	Drummond's leafy moss		Anglais		True	
+706	mnie des épinettes		Français		True	
+707	marsh leafy moss		Anglais		True	
+707	mnie à feuilles elliptiques		Français		True	
+707	étoilée elliptique		Français			
+708	alpine leafy moss		Anglais		True	
+708	mnie intermédiaire		Français		True	
+709	long-beaked leafy moss		Anglais		True	
+709	mnie à long bec		Français		True	
+709	mnie rostrée		Français			
+709	mni à long bec		Français			
+709	étoilée à bec		Français			
+710	Oeder's apple moss		Anglais		True	
+710	bartramie triangulaire		Français		True	
+710	pommette grêle		Français			
+710	barthramie dOeder		Français			
+711	round silk moss		Anglais		True	
+711	satinette à feuilles creuses		Français		True	
+712	dented silk moss		Anglais		True	
+712	satinette denticulée		Français		True	
+712	hypne dentelé		Français			
+712	plagiothèque denticulé		Français			
+712	hypne denticulé		Français			
+712	stéréode denticulé		Français			
+713	bright silk moss		Anglais		True	
+713	satinette éclatante		Français		True	
+714	alder silk moss		Anglais		True	
+714	petite satinette		Français		True	
+715	hair silk moss		Anglais		True	
+715	satinette porte-poil		Français		True	
+715	plagiothécie porte-poil		Français			
+716	limestone willow moss		Anglais		True	
+716	filigrane à feuilles entières		Français		True	
+716	stéréode confervoïde		Français			
+717	false willow moss		Anglais		True	
+717	filigrane fausse-jongermanne		Français		True	
+717	hypne jungermanne		Français			
+718	small willow moss		Anglais		True	
+718	filigrane minuscule		Français		True	
+719	bark willow moss		Anglais		True	
+719	filigrane corticole		Français		True	
+719	amblystège menu		Français			
+719	leskée déliée		Français			
+719	buissonnette déliée		Français			
+720	flat-brocade moss		Anglais		True	
+720	platygyre rampant		Français		True	
+720	axillaire rampante		Français			
+721	bordered brook moss		Anglais		True	
+721	leskée marginée		Français		True	
+723	awl-leaved pygmy moss		Anglais		True	
+723	luton hérissé		Français		True	
+723	phasque en alène		Français			
+723	pleuridie subulée		Français			
+723	phasque subulé		Français			
+724	red-stemmed feather moss		Anglais		True	
+724	pleurozie dorée		Français		True	
+724	hypne de Schreber		Français			
+724	hypne dorée		Français			
+724	hypne sans pointe		Français			
+725	mountain hair moss		Anglais		True	
+725	polytric denté		Français		True	
+725	pogone denté		Français			
+725	perce-mousse denté		Français			
+726	Pennsylvania hair moss		Anglais		True	
+726	polytric tomenteux		Français		True	
+727	urn hair moss		Anglais		True	
+727	polytric verseau		Français		True	
+727	pogonate à urne		Français			
+727	pogonata à urne		Français			
+727	pogonaton à fruits en forme durne		Français			
+727	polytric en forme durne		Français			
+727	polytric axillaire		Français			
+727	pogone porte-urne		Français			
+727	polytric à urne		Français			
+728	Andalusian nodding moss		Anglais		True	
+728	pohlie à bulbilles apicales		Français		True	
+729	pale-fruited nodding moss		Anglais		True	
+729	pohlie à bulbilles variables		Français		True	
+729	bry à feuilles de saule		Français			
+729	bry trompeur		Français			
+730	blunt-bud nodding moss		Anglais		True	
+730	pohlie bulbifère		Français		True	
+731	opal nodding moss		Anglais		True	
+731	pohlie opalescente		Français		True	
+731	bryum frais		Français			
+731	wébère frais		Français			
+731	étoilée vert crud		Français			
+731	bry frais		Français			
+732	pipe nodding moss		Anglais		True	
+732	pohlie boréale		Français		True	
+733	Drummond's nodding moss		Anglais		True	
+733	pohlie à bulbilles cylindriques		Français		True	
+734	elongated nodding moss		Anglais		True	Courriel reçu de Marilyn Anions le 19 novembre 2014Pohlia elongata - change from 'long-necked nodding moss' to 'elongated nodding moss' (as Pohlia longicolla has the English name of 'long-necked moss')
+734	pohlie à capsule longue		Français		True	
+734	wébère allongée		Français			
+734	toupette allongée		Français			
+734	pohlie alongée		Français			
+736	slender nodding moss		Anglais		True	
+736	pohlie à bulbilles ovoïdes		Français		True	
+737	pear-shaped nodding moss		Anglais		True	
+737	pohlie minuscule		Français		True	
+738	long-necked nodding moss		Anglais		True	
+738	pohlie à col allongé		Français		True	
+738	poirette à long col		Français			
+739	black-toothed nodding moss		Anglais		True	
+739	pohlie à dents noires		Français		True	
+739	bryum couleur de chair		Français			
+739	wébère carné		Français			
+739	bry à dents noires		Français			
+739	bry couleur de chair		Français			
+740	common nodding moss		Anglais		True	
+740	pohlie penchée		Français		True	
+740	bryum penché		Français			
+740	wébère penchée		Français			
+740	wébère penché		Français			
+740	poirette penchée		Français			
+740	bry penché		Français			
+741	blunt nodding moss		Anglais		True	
+741	pohlie à feuilles obtuses		Français		True	
+741	bry à feuilles obtuses		Français			
+742	cottony nodding moss		Anglais		True	
+742	pohlie à bulbilles minces		Français		True	
+743	bog nodding moss		Anglais		True	
+743	pohlie des sphaignes		Français		True	
+744	Wahlenberg's nodding moss		Anglais		True	
+744	pohlie blanchâtre		Français		True	
+745	alpine haircap moss		Anglais		True	
+745	polytric alpin		Français		True	
+745	pogonate alpestre		Français			
+745	polytric des Alpes		Français			
+745	pogone des Alpes		Français			
+748	fragile alpine haircap moss		Anglais		True	
+748	polytric fragile		Français		True	
+749	arctic-alpine haircap moss		Anglais		True	
+749	polytric septentrional		Français		True	
+750	showy haircap moss		Anglais		True	
+750	polytric à feuilles denses		Français		True	
+751	long-stalked haircap moss		Anglais		True	
+751	polytric à longue soie		Français		True	
+751	polytric à long pédicelle		Français			
+752	Ohio haircap moss		Anglais		True	
+752	polytric méridional		Français		True	
+752	polytric dOhio		Français			
+753	eastern haircap moss		Anglais		True	
+753	polytric boréal		Français		True	
+754	northern haircap moss		Anglais		True	
+754	polytric nivéal		Français		True	
+754	polytric hexagonal		Français			
+755	common haircap moss		Anglais		True	
+755	polytric commun		Français		True	
+755	perce-mousse		Français			
+755	polytriche grande		Français			
+757	hyperboreal haircap moss		Anglais		True	
+757	polytric hyperboréen		Français		True	
+758	Jensen's haircap moss		Anglais		True	
+758	polytric arctique		Français		True	
+760	juniper haircap moss		Anglais		True	
+760	polytric genévrier		Français		True	
+760	polytric à feuilles de genévrier		Français			
+760	polytric genevrin		Français			
+761	bristly haircap moss		Anglais		True	
+761	polytric porte-poil		Français		True	
+761	polytric pilifère		Français			
+761	porte-poil		Français			
+761	polytric à poil blanc		Français			
+762	bog haircap moss		Anglais		True	
+762	polytric dressé		Français		True	
+762	polytric vertical		Français			
+762	polytric roide		Français			
+763	Swartz's haircap moss		Anglais		True	
+763	polytric variable		Français		True	
+764	river thyme moss		Anglais		True	
+764	mnie oblique		Français		True	
+765	short-leaved spear moss		Anglais		True	
+765	pseudocalliergon à feuilles courtes		Français		True	
+767	three-ranked spear moss		Anglais		True	
+767	pseudocalliergon linéaire		Français		True	
+767	hypne triple		Français			
+767	stéréode trilatéral		Français			
+769	turgid scorpion moss		Anglais		True	
+769	pseudocalliergon turgescent		Français		True	
+771	long-stalked fine wet moss		Anglais		True	
+771	campylie à feuilles décurrentes		Français		True	
+773	patent Leske's moss		Anglais		True	
+773	leskée étalée		Français		True	
+775	dense-rooted Leske's moss		Anglais		True	
+775	leskée radicante		Français		True	
+776	narrow-leaved Leske's moss		Anglais		True	
+776	leskée à feuilles étroites		Français		True	
+777	nerved Leske's moss		Anglais		True	
+777	leskée prolifère		Français		True	
+777	axillaire nerveuse		Français			
+779	wispy Leske's moss		Anglais		True	
+779	leskée des montagnes		Français		True	
+783	rooftop Leske's moss		Anglais		True	
+783	leskée des toits		Français		True	
+783	stéréode des toits		Français			
+784	two-ranked moss		Anglais		True	
+784	fougerole des grottes		Français		True	
+785	elegant silk moss		Anglais		True	
+785	fougerole élégante		Français		True	
+785	isocélie élégante		Français			
+786	little wolverine moss		Anglais		True	
+786	polytric à feuilles concaves		Français		True	
+786	faux-polytric à feuilles concaves		Français			
+787	large wolverine moss		Anglais		True	
+787	polytric lisse		Français		True	
+787	faux-polytric lisse		Français			
+787	chauvette arctique		Français			
+788	capillary wing moss		Anglais		True	
+788	cordelette des rochers		Français		True	
+788	ptérogynandre filiforme		Français			
+788	ptéregynandre filiforme		Français			
+788	ptérigynandre filiforme		Français			
+788	axillaire filiforme		Français			
+788	pterogone filiforme		Français			
+789	ovate pterygoneurum		Anglais		True	
+789	nisse ovale		Français		True	
+789	gymnostome ovale		Français			
+789	rasule ovale		Français			
+789	gymnostome ovoïde		Français			
+790	knight's plume moss		Anglais		True	
+790	hypne plumeuse		Français		True	
+790	hypne cimier		Français			
+790	hypne panache		Français			
+790	hypne plumet		Français			
+791	intricate pylaisia		Anglais		True	
+791	pylaise emmêlée		Français		True	
+791	axillaire embrouillée		Français			
+793	many-flowered pylaisia		Anglais		True	
+793	grande pylaise		Français		True	
+793	hypne multiflore		Français			
+793	pylaisie multiflore		Français			
+793	leskée multiflore		Français			
+793	buissonnette floribonde		Français			
+793	leskée multiflore		Français			
+795	Selwyn's pylaisia		Anglais		True	
+795	pylaise trompeuse		Français		True	
+797	obtuse-leaved rock moss		Anglais		True	
+797	frangine à feuilles obtuses		Français		True	
+797	rhacomitre aiguille		Français			
+797	racomitrion aciculé		Français			
+797	racomitrion en aiguille		Français			
+797	frangine aiguillère		Français			
+797	dicrane en aiguille		Français			
+799	lesser rock moss		Anglais		True	
+799	petite frangine		Français		True	
+801	grey rock moss		Anglais		True	
+801	frangine blanchâtre		Français		True	
+801	rhacomitre blanchâtre		Français			
+801	racomitrion blanchâtre		Français			
+801	racomitre blanchâtre		Français			
+801	trichostome blanchâtre		Français			
+803	slender grey rock moss		Anglais		True	
+803	frangine à feuilles larges		Français		True	
+805	elongate rock moss		Anglais		True	
+805	frangine élancée		Français		True	
+807	dense rock moss		Anglais		True	
+807	frangine dense		Français		True	
+807	frangine fougerine		Français			
+809	clustered rock moss		Anglais		True	
+809	frangine à branches courtes		Français		True	
+809	frangine fasciculée		Français			
+809	trichostome en faisceau		Français			
+811	hoary rock moss		Anglais		True	
+811	frangine laineuse		Français		True	
+811	racomitre laineux		Français			
+811	rhacomitre laineux		Français			
+811	racomitrion lanugineux		Français			
+811	trichostome laineux		Français			
+812	small-fruited rock moss		Anglais		True	
+812	frangine des rochers		Français		True	
+812	frangine petit-fruit		Français			
+814	arctic rock moss		Anglais		True	
+814	frangine arctique		Français		True	
+816	narrow-leaved rock moss		Anglais		True	
+816	frangine à feuilles étroites		Français		True	
+818	Appalachian rock moss		Anglais		True	
+818	frangine gracieuse		Français		True	
+820	smaller fern moss		Anglais		True	
+820	thuidie élégante		Français		True	
+820	stéréode symmétrique		Français			
+822	fine-toothed streak moss		Anglais		True	
+822	fausse-amphidie à petites dents		Français		True	
+822	verdule denticulée		Français			
+822	weissie crispée		Français			
+822	orthotric crépu		Français			
+823	Andrew's leafy moss		Anglais		True	
+823	mnie ondulée		Français		True	
+824	Appalachian leafy moss		Anglais		True	
+824	grande mnie		Français		True	
+825	slender leafy moss		Anglais		True	
+825	mnie gracile		Français		True	
+826	large-leaved leafy moss		Anglais		True	
+826	mnie à grandes feuilles		Français		True	
+827	felted leafy moss		Anglais		True	
+827	mnie des marécages		Français		True	
+828	dotted leafy moss		Anglais		True	
+828	mnie ponctuée		Français		True	
+828	mni ponctué		Français			
+828	étoilée pointillée		Français			
+828	bry ponctué		Français			
+829	Ontario rose moss		Anglais		True	
+829	rosette des forêts		Français		True	
+830	aquatic long-beaked moss		Anglais		True	
+830	longbec aquatique		Français		True	
+831	serrulate-leaved long-beaked moss		Anglais		True	
+831	longbec denticulé		Français		True	
+831	hypne à feuilles en dent de scie		Français			
+833	lanky moss		Anglais		True	
+833	ébouriffe lanière		Français		True	
+833	hypne squarreux		Français			
+833	hypne courroie		Français			
+833	rhytidiadelphe lanière		Français			
+833	hylocome courroie		Français			
+833	hypne à courroies		Français			
+834	subpinnate gooseneck moss		Anglais		True	
+834	ébouriffe plane		Français		True	
+835	electrified cat's-tail moss		Anglais		True	
+835	ébouriffe triangulaire		Français		True	
+835	hypne triquètre		Français			
+835	mousse des jardiniers		Français			
+835	hypne triangulaire		Français			
+835	hylocome triangulaire		Français			
+836	wrinkle-leaved moss		Anglais		True	
+836	rhytidie rugueuse		Français		True	
+836	hypne ridé		Français			
+836	hypne rugueux		Français			
+836	stéréode ridé		Français			
+837	blue dew moss		Anglais		True	
+837	sélanie bleue		Français		True	
+837	ciliaire glauque		Français			
+838	coastal hook moss		Anglais		True	
+838	faucillette faux-stylite		Français		True	
+840	sickle moss		Anglais		True	
+840	faucillette à feuilles plissées		Français		True	
+840	hypne en crochet		Français			
+840	hypne recourbé		Français			
+840	hypne crochu		Français			
+840	stéréode crochu		Français			
+842	ringless spoon moss		Anglais		True	
+842	lamie commune		Français		True	
+845	twiggy spoon moss		Anglais		True	
+845	lamie rouge		Français		True	
+848	tundra spoon moss		Anglais		True	
+848	lamie nordique		Français		True	
+851	Agassiz's bloom moss		Anglais		True	
+851	grimmie des ruisseaux		Français		True	
+851	grimmie des Alpes		Français			
+852	radiate bloom moss		Anglais		True	
+852	grimmie commune		Français		True	
+852	grimmie sessile		Français			
+852	grimmie à fruit sessile		Français			
+852	grimmie à urne sessile		Français			
+852	ninette tête rouge		Français			
+853	small bloom moss		Anglais		True	
+853	grimmie glabre		Français		True	
+854	boreal bloom moss		Anglais		True	Courriel reçu de Marilyn Anions le 19 novembre 2014Schistidium boreale & S. canadense - English names are reversed
+854	grimmie boréale		Français		True	
+855	Canada bloom moss		Anglais		True	Courriel reçu de Marilyn Anions le 19 novembre 2014Schistidium boreale & S. canadense - English names are reversed
+855	grimmie à feuilles mutiques		Français		True	
+857	thickpoint bloom moss		Anglais		True	
+857	grimmie à soie épaisse		Français		True	
+857	fausse-grimmie à soie épaisse		Français			
+858	cryptic bloom moss		Anglais		True	
+858	grimmie à capsule cachée		Français		True	
+858	fausse-grimmie à capsule cachée		Français			
+859	Dupret's bloom moss		Anglais		True	
+859	grimmie pionnière		Français		True	
+860	flexible bloom moss		Anglais		True	
+860	grimmie variable		Français		True	
+860	fausse-grimmie à soie flexueuse		Français			
+861	arctic-alpine bloom moss		Anglais		True	
+861	grimmie des montagnes		Français		True	
+862	large-celled bloom moss		Anglais		True	
+862	grimmie rougeâtre		Français		True	
+862	fausse-grimmie à cellules larges		Français			
+863	Holmen's bloom moss		Anglais		True	
+863	grimmie des tourbières		Français		True	
+863	fausse-grimmie de Holmen		Français			
+864	tiny bloom moss		Anglais		True	
+864	grimmie liliputienne		Français		True	
+865	seaside bloom moss		Anglais		True	
+865	grimmie maritime		Français		True	
+865	ninette maritime		Français			
+866	papillose bloom moss		Anglais		True	
+866	grimmie papilleuse		Français		True	
+867	showy bloom moss		Anglais		True	
+867	grimmie ravissante		Français		True	
+868	river bloom moss		Anglais		True	
+868	grimmie des rivages		Français		True	
+868	grimmie des ruisseaux		Français			
+868	ninette des ruisseaux		Français			
+869	robust bloom moss		Anglais		True	
+869	grimmie robuste		Français		True	
+869	fausse-grimmie robuste		Français			
+870	black bloom moss		Anglais		True	
+870	grimmie  à  longues dents		Français		True	
+870	ninette à dents porte-poil		Français			
+871	bluish bloom moss		Anglais		True	
+871	grimmie azurée		Français		True	
+871	fausse-grimmie azurée		Français			
+872	dark-green bloom moss		Anglais		True	
+872	grimmie à dents striées		Français		True	
+873	luminous moss		Anglais		True	
+873	or des lutins		Français		True	
+873	schistotège osmonde		Français			
+873	brise-couvercle pinné		Français			
+875	Cosson's hook moss		Anglais		True	
+875	scorpidie verdâtre		Français		True	
+878	rusty hook moss		Anglais		True	
+878	scorpidie rouge violacé		Français		True	
+878	hypne roulé		Français			
+880	hooked scorpion moss		Anglais		True	
+880	scorpidie scorpion		Français		True	
+880	hypne scorpion		Français			
+880	stéréode scorpion		Français			
+881	short-leaved bristle moss		Anglais		True	
+881	séligérie à feuilles courtes		Français		True	
+882	chalk bristle moss		Anglais		True	
+882	séligérie commune		Français		True	
+882	seligérie du calcaire		Français			
+882	séligérie des calcaires		Français			
+882	verdule calcaire		Français			
+883	bent-foot bristle moss		Anglais		True	
+883	séligérie à pied recourbé		Français		True	
+884	diverse-leaved bristle moss		Anglais		True	
+884	séligérie à feuilles variées		Français		True	
+885	Donn's bristle moss		Anglais		True	
+885	séligérie édentée		Français		True	
+886	Irish bristle moss		Anglais		True	
+886	séligérie à dents tronquées		Français		True	
+887	recurved bristle moss		Anglais		True	
+887	séligérie à soie courbée		Français		True	
+887	séligérie recourbée		Français			
+887	verdule recourbée		Français			
+887	grimmie recourbée		Français			
+888	three-ranked bristle moss		Anglais		True	
+888	séligérie à trois rangs		Français		True	
+889	imbricate peat moss		Anglais		True	
+889	sphaigne parente		Français		True	
+890	Angerman's peat moss		Anglais		True	
+890	sphaigne d'Angerman		Français		True	
+891	narrow-leaved peat moss		Anglais		True	
+891	sphaigne à feuilles étroites		Français		True	
+892	ringed peat moss		Anglais		True	
+892	sphaigne annelée		Français		True	
+893	Aongstroem's peat moss		Anglais		True	
+893	sphaigne d'Angström		Français		True	
+893	sphaigne dAongström		Français			
+894	arctic peat moss		Anglais		True	
+894	sphaigne arctique		Français		True	
+895	Austin's peat moss		Anglais		True	
+895	sphaigne d'Austin		Français		True	
+896	Baltic peat moss		Anglais		True	
+896	sphaigne de la Baltique		Français		True	
+897	small red peat moss		Anglais		True	
+897	sphaigne grêle		Français		True	
+897	sphaigne à feuilles aiguës		Français			
+897	tourbette capillaire		Français			
+897	sphaigne capillaire		Français			
+898	central peat moss		Anglais		True	
+898	sphaigne centrale		Français		True	
+899	compact peat moss		Anglais		True	
+899	sphaigne compacte		Français		True	
+899	tourbette compacte		Français			
+899	sphaigne compact		Français			
+900	elegant peat moss		Anglais		True	
+900	sphaigne jolie		Français		True	
+901	twisted peat moss		Anglais		True	
+901	sphaigne tordue		Français		True	
+901	tourbette tordue		Français			
+902	feathery peat moss		Anglais		True	
+902	sphaigne cuspidée		Français		True	
+902	sphaigne pointue		Français			
+902	sphaigne à feuilles cuspidées		Français			
+902	sphaigne cuspidé		Français			
+902	tourbette pointue		Français			
+903	flat-top peat moss		Anglais		True	
+903	sphaigne trompeuse		Français		True	
+904	fringed peat moss		Anglais		True	
+904	sphaigne frangée		Français		True	
+904	sphaigne à feuilles frangées		Français			
+905	northeastern peat moss		Anglais		True	
+905	sphaigne jaunâtre		Français		True	
+906	flexible peat moss		Anglais		True	
+906	sphaigne flexueuse		Français		True	
+907	brown peat moss		Anglais		True	
+907	sphaigne brune		Français		True	
+908	Girgensohn's peat moss		Anglais		True	
+908	sphaigne de Girgensohn		Français		True	
+909	Jensen's peat moss		Anglais		True	
+909	sphaigne de Jensen		Français		True	
+910	Lena River peat moss		Anglais		True	
+910	sphaigne de la Léna		Français		True	
+911	Lesquereux's peat moss		Anglais		True	
+911	sphaigne de Lesquereux		Français		True	
+912	Lindberg's peat moss		Anglais		True	
+912	sphaigne de Lindberg		Français		True	
+913	Magellan's peat moss		Anglais		True	
+913	sphaigne de Magellan		Français		True	
+914	greater peat moss		Anglais		True	
+914	sphaigne majeure		Français		True	
+915	Norwegian peat moss		Anglais		True	
+915	sphaigne de Norvège		Français		True	
+916	splendid peat moss		Anglais		True	
+916	sphaigne étrange		Français		True	
+917	obtuse peat moss		Anglais		True	
+917	sphaigne à feuilles obtuses		Français		True	
+918	Olaf's peat moss		Anglais		True	
+918	sphaigne d'Olaf		Français		True	
+919	oriental peat moss		Anglais		True	
+919	sphaigne orientale		Français		True	
+920	blunt-leaved peat moss		Anglais		True	
+920	sphaigne des marécages		Français		True	
+920	sphaigne des marais		Français			
+920	sphaigne à feuilles concaves		Français			
+921	papillose peat moss		Anglais		True	
+921	sphaigne papilleuse		Français		True	
+922	glossy peat moss		Anglais		True	
+922	sphaigne perfoliée		Français		True	
+923	flat-leaved peat moss		Anglais		True	
+923	sphaigne à feuilles larges		Français		True	
+924	beautiful peat moss		Anglais		True	
+924	sphaigne remarquable		Français		True	
+925	Pylaie's peat moss		Anglais		True	
+925	sphaigne de La Pylaie		Français		True	
+925	tourbette de La Pylaie		Français			
+926	five-ranked peat moss		Anglais		True	
+926	sphaigne à cinq rangs		Français		True	
+927	streamside peat moss		Anglais		True	
+927	sphaigne des rivages		Français		True	
+928	red peat moss		Anglais		True	
+928	sphaigne rougeâtre		Français		True	
+929	variegated peat moss		Anglais		True	
+929	sphaigne panachée		Français		True	
+930	Russow's peat moss		Anglais		True	
+930	sphaigne de Russow		Français		True	
+931	shaggy peat moss		Anglais		True	
+931	sphaigne hérissée		Français		True	
+931	sphaigne squarreuse		Français			
+931	sphaigne hérissé		Français			
+931	sphaigne rude		Français			
+931	tourbette rude		Français			
+932	Steere's peat moss		Anglais		True	
+932	sphaigne de Steere		Français		True	
+933	fulvous peat moss		Anglais		True	
+933	sphaigne fauve		Français		True	
+934	orange peat moss		Anglais		True	
+934	sphaigne courbée		Français		True	
+934	sphaigne subunilatéral		Français			
+934	sphaigne à feuilles subunilatérales		Français			
+934	sphaigne sub-unilatéral		Français			
+934	tourbette à feuilles presque unilatérales		Français			
+935	soft peat moss		Anglais		True	
+935	sphaigne délicate		Français		True	
+935	sphaigne exiguë		Français			
+935	tourbette délicate		Français			
+936	slender peat moss		Anglais		True	
+936	sphaigne tendre		Français		True	
+937	rigid peat moss		Anglais		True	
+937	sphaigne arrondie		Français		True	
+938	Torrey's peat moss		Anglais		True	
+938	sphaigne de Torrey		Français		True	
+939	tundra peat moss		Anglais		True	
+939	sphaigne de la toundra		Français		True	
+940	charming peat moss		Anglais		True	
+940	sphaigne charmante		Français		True	
+941	Warnstorf's peat moss		Anglais		True	
+941	sphaigne de Warnstorf		Français		True	
+942	Wulf's peat moss		Anglais		True	
+942	sphaigne de Wulf		Français		True	
+943	cruet dung moss		Anglais		True	
+943	splanc bouteille		Français		True	
+943	splanc ampoulé		Français			
+943	splanc à ampoule		Français			
+943	splachne ampullacé		Français			
+943	splachne ampoule		Français			
+944	yellow dung moss		Anglais		True	
+944	splanc jaunâtre		Français		True	
+944	splanc jaune		Français			
+945	Pennsylvania dung moss		Anglais		True	
+945	splanc étroit		Français		True	
+946	red dung moss		Anglais		True	
+946	splanc rouge		Français		True	
+947	round-fruited dung moss		Anglais		True	
+947	splanc sphérique		Français		True	
+948	rugged dung moss		Anglais		True	
+948	splanc pichet		Français		True	
+948	splanc en vase		Français			
+949	broad-leaved stegonia moss		Anglais		True	
+949	stégonie à feuilles larges		Français		True	
+950	awned stegonia moss		Anglais		True	
+950	stégonie porte-poil		Français		True	
+951	straw moss		Anglais		True	
+951	calliergon jaunâtre		Français		True	
+951	hypne paillet		Français			
+951	stéréode paillet		Français			
+953	Norway screw moss		Anglais		True	
+953	tortule des rochers		Français		True	
+953	tressule de Norvège		Français			
+955	sidewalk screw moss		Anglais		True	
+955	tortule des champs		Français		True	
+955	barbule des champs		Français			
+955	barbule rurale		Français			
+955	syntric rustique		Français			
+955	tressule rustique		Français			
+957	imbricate yew-leaved moss		Anglais		True	
+957	fougerole denticulée		Français		True	
+958	acuminate trumpet moss		Anglais		True	
+958	taylorie acuminée		Français		True	
+959	tongue-leaved trumpet moss		Anglais		True	
+959	taylorie lingulée		Français		True	
+959	eremode splachnoide		Français			
+960	serrate trumpet moss		Anglais		True	
+960	taylorie dentée		Français		True	
+960	splanc à feuilles en dents de scie		Français			
+960	splanc dentelé		Français			
+961	splachnoid trumpet moss		Anglais		True	
+961	taylorie faux-splanc		Français		True	
+961	taylorie faux-splachne		Français			
+961	tremuline splachnoïde		Français			
+962	geniculate four-toothed moss		Anglais		True	
+962	quadrident genouillé		Français		True	
+963	common four-toothed moss		Anglais		True	
+963	quadrident diaphane		Français		True	
+963	tétraphis pellucide		Français			
+963	tétraphis diaphane		Français			
+964	toothed-leaved nitrogen moss		Anglais		True	
+964	tétraplodon étroit		Français		True	
+964	splanc retréci		Français			
+965	entire-leaved nitrogen moss		Anglais		True	
+965	tétraplodon fausse-mnie		Français		True	
+965	splanc mnioide		Français			
+966	pale nitrogen moss		Anglais		True	
+966	tétraplodon pâle		Français		True	
+967	urceolate nitrogen moss		Anglais		True	
+967	tétraplodon enflé		Français		True	
+967	splanc en forme de cruche		Français			
+969	Brown's four-toothed moss		Anglais		True	
+969	quadrident variable		Français		True	
+969	tétrodonte de Brown		Français			
+969	quadrident de Brown		Français			
+970	ovate four-toothed moss		Anglais		True	
+970	quadrident ovale		Français		True	
+971	small four-toothed moss		Anglais		True	
+971	quadrident ondulé		Français		True	
+971	quadrident échancré		Français			
+972	Allegany moss		Anglais		True	
+972	arbuscule des montagnes		Français		True	
+973	rough thelia		Anglais		True	
+973	thélie papilleuse		Français		True	
+974	common thelia		Anglais		True	
+974	thélie hirsute		Français		True	
+974	axillaire hérissonne		Français			
+975	Philibert's fern moss		Anglais		True	
+975	thuidie à feuilles acuminées		Français		True	
+977	delicate fern moss		Anglais		True	
+977	thuidie petite-fougère		Français		True	
+977	mousse fougère		Français			
+977	thuidie fluette		Français			
+978	hook-leaved fern moss		Anglais		True	
+978	thuidie inclinée		Français		True	
+978	thyidie retrouvée		Français			
+978	hypne revu		Français			
+979	Austrian timmia		Anglais		True	
+979	timmie à gaine orangée		Français		True	
+979	porte-fossette jaunâtre		Français			
+979	timmie dAutriche		Français			
+980	Bavarian timmia		Anglais		True	Courriel reçu de Marilyn Anions le 19 novembre 2014Timmia megapolitana var. bavarica & var. megapolitana - English names are reversed
+980	timmie à gaine lisse		Français		True	
+980	timmie de Meckelbourg		Français			
+982	metropolitan timmia		Anglais		True	Courriel reçu de Marilyn Anions le 19 novembre 2014Timmia megapolitana var. bavarica & var. megapolitana - English names are reversed
+982	timmie commune		Français		True	
+982	porte-fossette verte		Français			
+983	nerved Norwegian timmia		Anglais		True	
+983	timmie à nervure excurrente		Français		True	
+984	Norwegian timmia		Anglais		True	
+984	timmie fragile		Français		True	
+985	Siberian timmia		Anglais		True	
+985	timmie papilleuse		Français		True	
+985	timmie de Sibérie		Français			
+986	sickle-leaved golden moss		Anglais		True	
+986	tomenteuse à feuilles arquées		Français		True	
+987	golden fuzzy fen moss		Anglais		True	
+987	tomenteuse à feuilles droites		Français		True	
+987	tomentypne luisant		Français			
+987	hypne brillant		Français			
+987	stéréode lustré		Français			
+988	arctic twisted moss		Anglais		True	
+988	tortelle arctique		Français		True	
+989	fragile twisted moss		Anglais		True	
+989	tortelle fragile		Français		True	
+990	small twisted moss		Anglais		True	
+990	tortelle modeste		Français		True	
+990	barbule basse		Français			
+991	inclined twisted moss		Anglais		True	
+991	tortelle inclinée		Français		True	
+991	tortule inclinée		Français			
+991	barbule inclinée		Français			
+992	frizzled crisp moss		Anglais		True	
+992	tortelle tortueuse		Français		True	
+992	barbule tortueuse		Français			
+992	tortule tortueuse		Français			
+993	narrowed-leaved screw moss		Anglais		True	
+993	tortule penchée		Français		True	
+995	Hoppe's screw moss		Anglais		True	
+995	tortule nordique		Français		True	
+995	tortule de Hoppe		Français			
+995	ligatule à larges feuilles		Français			
+997	alpine screw moss		Anglais		True	
+997	tortule blanche		Français		True	
+999	mucronate screw moss		Anglais		True	
+999	tortule à feuilles mucronées		Français		True	
+1000	Nevada screw moss		Anglais		True	
+1000	tortule édentée		Français		True	
+1001	Porter's screw moss		Anglais		True	
+1001	tortule méridionale		Français		True	
+1001	tortule de Porter		Français			
+1003	systylous screw moss		Anglais		True	
+1003	tortule accrescente		Français		True	
+1005	truncated screw moss		Anglais		True	
+1005	tortule tronquée		Français		True	
+1005	pottie tronquée		Français			
+1005	gymnostome tronqué		Français			
+1007	ambiguous long-necked moss		Anglais		True	
+1007	trématodon commun		Français		True	
+1007	troudent ambigu		Français			
+1008	cylindric hairy-teeth moss		Anglais		True	
+1008	ditric cylindrique		Français		True	
+1008	ciliaire cylindrique		Français			
+1009	arctic crisp moss		Anglais		True	
+1009	trichostome arctique		Français		True	
+1010	narrow-fruited crisp moss		Anglais		True	
+1010	trichostome à bec effilé		Français		True	
+1010	double-dent à bec fin		Français			
+1011	club pincushion moss		Anglais		True	
+1011	houppe à massue		Français		True	
+1011	orthotric retréci		Français			
+1012	crisped pincushion moss		Anglais		True	
+1012	houppe frisée		Français		True	
+1012	ulota crispée		Français			
+1012	orthotric crispé		Français			
+1012	frisette crépue		Français			
+1013	curve-leaved pincushion moss		Anglais		True	
+1013	houppe à feuilles recourbées		Français		True	
+1013	frisette à feuilles courbés		Français			
+1014	Drummond's pincushion moss		Anglais		True	
+1014	houppe édentée		Français		True	
+1014	ulote de Drummond		Français			
+1014	frisette de Drummond		Français			
+1015	Hutchins' pincushion moss		Anglais		True	
+1015	houppe commune		Français		True	
+1015	orthotric de Hutchins		Français			
+1015	ulota de Hurchins		Français			
+1015	orthotric de Hutchin		Français			
+1015	orthotric de Miss Hutchins		Français			
+1016	frizzled pincushion moss		Anglais		True	
+1016	houppe maritime		Français		True	
+1017	floating hook moss		Anglais		True	
+1017	serpe flottante		Français		True	
+1017	stéréode flottant		Français			
+1019	spring hook moss		Anglais		True	
+1019	serpe à feuilles droites		Français		True	
+1019	faucillette pâle		Français			
+1021	green-tufted stubble moss		Anglais		True	
+1021	weissie controversée		Français		True	
+1021	weisie verdâtre		Français			
+1021	weisie verdoyante		Français			
+1021	verdule gaie		Français			
+1021	weissie contestée		Français			
+1022	Mühlenberg's weissia		Anglais		True	
+1022	weissie à capsule immergée		Français		True	
+1022	weissie de Mühlenberg		Français			
+1024	phascum-like weissia		Anglais		True	
+1024	weissie faux-phasque		Français		True	
+1026	park yoke moss		Anglais		True	
+1026	houppe des rochers		Français		True	
+1028	green yoke moss		Anglais		True	
+1028	houppe verte		Français		True	
+1028	zygodon vert		Français			
+1028	zygodon très vert		Français			
+1028	accouplette verdoyante		Français			
+1030	Piper's shield moss		Anglais		True	
+1030	gnome mat		Français		True	
+129	imbricated liverwort		Anglais		True	
+46	snow pincerwort		Anglais		True	
+179	Flotow's ruffwort		Anglais		True	
+196	dame du Nord		Français			Nom français s'appliquant à la var. islandica qui est placé en synonymie de la var. albescens
+196	northern threadwort		Anglais			Nom anglais s'appliquant à la var. islandica qui est placé en synonymie de la var. albescens
+1847	sylphide ondulée		Français		True	Proposition Arold Lavoie 30 novembre 2014
+178	colerette des montagnes		Français		True	Proposition Arold Lavoie 30 novembre 2014
+1029	blushing peat moss		Anglais		True	Proposé par Marilyn Anions le 1 déc. 2014
+1850	Isoviita's peat moss		Anglais		True	Proposé par Marilyn Anions le 1 déc. 2014
+22	tundra liverwort		Anglais		True	Proposé par Marilyn Anions le 1 déc. 2014
+1847	marsh flapwort		Anglais		True	Proposé par Marilyn Anions le 1 déc. 2014
+1853	collared notchwort		Anglais		True	Proposé par Marilyn Anions le 1 déc. 2014
+178	Blytt's notchwort		Anglais		True	Proposé par Marilyn Anions le 1 déc. 2014
+218	greyish crystalwort		Anglais		True	Proposé par Marilyn Anions le 1 déc. 2014
+1853	lophozie à collier		Français		True	
+74	vénusté des tourbières		Français		True	
+75	vénusté des forêts		Français		True	
+156	barbille des collines		Français		True	
+125	jongermanne subelliptique		Français		True	
+129	lophozie trompeuse		Français		True	
+1849	lunulaire à gemmules		Français		True	
+373	bryum du Labrador		Français		True	
+466	dicrane à feuilles dressées		Français		True	
+514	éphémère asymétrique		Français		True	
+570	hélodie dressée		Français		True	
+571	hélodie étalée		Français		True	
+600	hypne apprimée		Français		True	
+604	hypne filiforme		Français		True	
+735	pohlie de Green		Français		True	
+756	polytric buissonnant		Français		True	
+774	leskée compacte		Français		True	
+874	olivine fausse-fabronie		Français		True	
+1850	sphaigne dIsoviita		Français		True	
+1029	sphaigne douce		Français		True	
+60	Sullivants Threadwort		Anglais		True	Proposé par Marilyn Anions 7 fév 2015
+125	Two-Lipped Flapwort		Anglais		True	Proposé par Marilyn Anions 7 fév 2015
+1849	crescent-cup liverwort		Anglais		True	Crescent-Cup Liverwort proposé par Marilyn Anions 7 fév 2015.Modifié à crescent-cup liverwort par Jean Faubert, 2015-12-03
+373	Labrador bryum		Anglais		True	Nom proposé par Marilyn Anions, 7 fév. 2015
+466	erect-leaved broom moss		Anglais		True	Nom proposé par Marilyn Anions, 7 fév. 2015
+514	clustered earth moss		Anglais		True	Nom proposé par Marilyn Anions, 7 fév. 2015
+570	Blandow's wetland plume moss		Anglais		True	Nom proposé par Marilyn Anions, 7 fév. 2015
+571	spreading wetland plume moss		Anglais		True	Proposé par Marilyn Anions, 7 fév. 2015
+600	Ando's plait moss		Anglais		True	Proposé par Marilyn Anions, 7 fév. 2015
+604	filiform plait moss		Anglais		True	Proposé par Marilyn Anions, 7 fév. 2015
+735	Green's nodding moss		Anglais		True	Proposé par Marilyn Anions, 7 fév. 2015
+756	dense haircap moss		Anglais		True	Proposé par Marilyn Anions, 7 fév. 2015
+774	compact Leske's moss		Anglais		True	Proposé par Marilyn Anions, 7 fév. 2015
+874	Rapunzel Moss		Anglais		True	Proposé par Marilyn Anions, 7 fév. 2015
+1850	Isoviita's Peat Moss		Anglais			Proposé par Marilyn Anions, 7 fév. 2015
+1029	Blushing Peat Moss		Anglais			Proposé par Marilyn Anions, 7 fév. 2015
