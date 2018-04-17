@@ -60,7 +60,9 @@ taxon.sub2 <- taxon.sub %>%
   left_join(verna.sub.en, by = 'taxonID') %>%
   left_join(verna.sub.fr, by = 'taxonID') %>%
   left_join(distribution.collapsed, by = 'taxonID') %>%
-  mutate(Bryoquel_version = 3.3)
+  mutate(Bryoquel_version = 3.3) %>%
+  select(-scientificName, -acceptedNameUsageID) %>%
+  rename(scientificName = acceptedNameUsage)
 
 # create csv for import into Fulcrum
 write.csv(taxon.sub2, file = 'bryoquel_taxon_fulcrum_v3_3.csv', row.names = F,
